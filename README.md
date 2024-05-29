@@ -21,5 +21,8 @@
 
 Начнем с основ: 
 - [Linux Fundamentals Part 1](https://github.com/BEPb/tryhackme/blob/master/00.info/Linux%20Fundamentals%20Part%201.md)
+- [Advent of Cyber '23 Side Quest](https://tryhackme.com/r/room/adventofcyber23sidequest)
 
 <img src="./art/top1.png" alt="logo" width="300" height="156.5">
+
+я не уверен стоит ли развивать данный проект, если Вы поддержите подпиской будем продолжать!
