@@ -1,3 +1,5 @@
+[>> вернуться на главную страницу](https://github.com/BEPb/tryhackme/blob/master/README.md)
+
 # Комната [Linux Fundamentals Part 1](https://tryhackme.com/r/room/linuxfundamentalspart1) 
 В комнате предлагается видео на 30 минут на английском языке, но если у Вас с этим проблемы то Вы можете включить 
 субтитры и в настройках перевод на русский. Очень важное видое и комнта с точки зрения понимания как дальше 
@@ -486,3 +488,5 @@ echo tryhackme >> passwords
 ```commandline
 Ответ не нужен
 ```
+
+[>> вернуться на главную страницу](https://github.com/BEPb/tryhackme/blob/master/README.md)
