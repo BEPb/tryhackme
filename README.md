@@ -13,7 +13,7 @@
 
 <img src="./art/tryhackme.jpeg" alt="logo" width="300" height="156.5">
 
-# От нуля до бога tryhackme обсоалютно бесплатно 
+# От нуля до бога tryhackme бесплатно 
 
 </div>
 
