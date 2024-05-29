@@ -22,20 +22,4 @@
 Начнем с основ: 
 - [Linux Fundamentals Part 1](https://github.com/BEPb/tryhackme/blob/master/00.info/Linux%20Fundamentals%20Part%201.md)
 
-
-## Order of preparation and work
-
-1. Clone the repository or download the archive from github or using the following commands on the command line
-    ```command line
-    $cmd
-    $ git clone https://github.com/BEPb/tryhackme
-    $ cd tryhackme
-    ```
-
-2. Create a Python virtual environment.
-3. Install all necessary packages for our code to work using the following command:
-
-     ```
-     pip install -r requirements.txt
-     ```
 <img src="./art/top1.png" alt="logo" width="300" height="156.5">

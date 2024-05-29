@@ -476,7 +476,8 @@ echo tryhackme >> passwords
 Ответ не нужен
 ```
 ## Задание 9 Основы Linux, часть 2
-Посетите вторую часть серии статей по основам Linux здесь!  https://tryhackme.com/room/linuxfundamentalspart2
+Посетите вторую часть серии статей по основам Linux здесь!  https://tryhackme.com/room/linuxfundamentalspart2 , но 
+эта комната платная по этому мы туда не пойдем)
 
 #### Ответить на вопросы ниже
 Уничтожьте машину, развернутую в этой комнате, из задачи 3. 
