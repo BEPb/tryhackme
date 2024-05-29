@@ -20,7 +20,8 @@
 ## Начнем с информационных комнат, они нам дадут необходимую базу
 
 - [Linux Fundamentals Part 1](https://github.com/BEPb/tryhackme/blob/master/00.info/Linux%20Fundamentals%20Part%201.md)
-- [Advent of Cyber '23 Side Quest](https://tryhackme.com/r/room/adventofcyber23sidequest)
+- [Advent of Cyber '23 Side Quest](https://github.com/BEPb/tryhackme/blob/master/00.info/Advent%20of%20Cyber%20'23%20Side%20Quest.md)
+- [Win Prizes and Learn - 2023!](https://tryhackme.com/r/room/adventofcyber23sidequest)
 
 <img src="./art/top1.png" alt="logo">
 
