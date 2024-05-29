@@ -13,13 +13,13 @@
 
 <img src="./art/tryhackme.jpeg" alt="logo" width="300" height="156.5">
 
-# Try hack me - Image to Prompts
+# От нуля до бога tryhackme обсоалютно бесплатно 
 
 </div>
 
-## How it works?
+## Начнем с информационных комнат, они нам дадут необходимую базу
 
-It's very simple: here are the solutions for the [Stable Diffusion - Image to Prompts](https://www.kaggle.com/competitions/stable-diffusion-image-to-prompts/overview)
+Начнем с основ  [Linux Fundamentals Part 1](https://tryhackme.com/r/room/linuxfundamentalspart1)
 
 ## Order of preparation and work
 
@@ -36,10 +36,4 @@ It's very simple: here are the solutions for the [Stable Diffusion - Image to Pr
      ```
      pip install -r requirements.txt
      ```
-
-### Stable Diffusion - Image to Prompts
-
-
-<p style="font-family: consolas; font-size: 16px;">⚪ If you want, you can experiment with this tool on the Hugging Face Space -- *<a href="https://huggingface.co/spaces/pharma/CLIP-Interrogator"><strong>Click</strong></a>*. Example of an output:</p>
-
-![](https://user-images.githubusercontent.com/45982614/220215304-d7e79716-35a2-4f29-867f-57ca996aab2a.png)
+<img src="./art/top1.png" alt="logo" width="300" height="156.5">
