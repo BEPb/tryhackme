@@ -19,7 +19,9 @@
 
 ## Начнем с информационных комнат, они нам дадут необходимую базу
 
-Начнем с основ  [Linux Fundamentals Part 1](https://tryhackme.com/r/room/linuxfundamentalspart1)
+Начнем с основ: 
+- [Linux Fundamentals Part 1](https://github.com/BEPb/tryhackme/blob/master/00.info/Linux%20Fundamentals%20Part%201.md)
+
 
 ## Order of preparation and work
 
