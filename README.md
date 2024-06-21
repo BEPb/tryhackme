@@ -23,8 +23,16 @@
 - [Intro to IR and IM](https://github.com/BEPb/tryhackme/blob/master/00.info/Win%20Prizes%20and%20Learn%20-%202023!.md)
 - [Burp Suite: Repeater](https://github.com/BEPb/tryhackme/blob/master/00.info/Burp%20Suite%20Repeater.md)
 - [Learn & win prizes - Fall 2022](https://github.com/BEPb/tryhackme/blob/master/00.info/Learn%20%26%20win%20prizes%20-%20Fall%202022.md)
-- [Careers in Cyber](https://github.com/BEPb/tryhackme/blob/master/00.info/Learn%20%26%20win%20prizes%20-%20Fall%202022.md)
-- 
+- [Careers in Cyber](https://github.com/BEPb/tryhackme/blob/master/00.info/Careers%20in%20Cyber.md)
+- [Spring4Shell: CVE-2022-22965]()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 - [Linux Fundamentals Part 1](https://github.com/BEPb/tryhackme/blob/master/00.info/Linux%20Fundamentals%20Part%201.md)
 - [Win Prizes and Learn - 2023!](https://github.com/BEPb/tryhackme/blob/master/00.info/Win%20Prizes%20and%20Learn%20-%202023!.md)
 
