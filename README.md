@@ -24,7 +24,7 @@
 - [Burp Suite: Repeater](https://github.com/BEPb/tryhackme/blob/master/00.info/Burp%20Suite%20Repeater.md)
 - [Learn & win prizes - Fall 2022](https://github.com/BEPb/tryhackme/blob/master/00.info/Learn%20%26%20win%20prizes%20-%20Fall%202022.md)
 - [Careers in Cyber](https://github.com/BEPb/tryhackme/blob/master/00.info/Careers%20in%20Cyber.md)
-- [Spring4Shell: CVE-2022-22965]()
+- [Spring4Shell: CVE-2022-22965](https://github.com/BEPb/tryhackme/blob/master/00.info/Spring4Shell%20CVE-2022-22965.md)
 - []()
 - []()
 - []()
