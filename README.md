@@ -26,7 +26,7 @@
 - [Careers in Cyber](https://github.com/BEPb/tryhackme/blob/master/00.info/Careers%20in%20Cyber.md)
 - [Spring4Shell: CVE-2022-22965](https://github.com/BEPb/tryhackme/blob/master/00.info/Spring4Shell%20CVE-2022-22965.md)
 - [Dirty Pipe: CVE-2022-0847](https://github.com/BEPb/tryhackme/blob/master/00.info/Dirty%20Pipe%20CVE-2022-0847.md)
-- [Pwnkit: CVE-2021-4034]()
+- [Pwnkit: CVE-2021-4034](https://github.com/BEPb/tryhackme/blob/master/00.info/Pwnkit%20CVE-2021-4034.md)
 - []()
 - []()
 - []()
