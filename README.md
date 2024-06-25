@@ -28,7 +28,7 @@
 - [Dirty Pipe: CVE-2022-0847](https://github.com/BEPb/tryhackme/blob/master/00.info/Dirty%20Pipe%20CVE-2022-0847.md)
 - [Pwnkit: CVE-2021-4034](https://github.com/BEPb/tryhackme/blob/master/00.info/Pwnkit%20CVE-2021-4034.md)
 - [Security Awareness](https://github.com/BEPb/tryhackme/blob/master/00.info/Security%20Awareness.md)
-- [CVE-2021-41773/42013]()
+- [CVE-2021-41773/42013](https://github.com/BEPb/tryhackme/blob/master/00.info/CVE-2021-41773%2042013.md)
 - []()
 - []()
 - []()
