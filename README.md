@@ -33,7 +33,7 @@
 - [Bypass Disable Functions](https://github.com/BEPb/tryhackme/blob/master/00.info/Bypass%20Disable%20Functions.md)
 - [Windows Fundamentals 3](https://github.com/BEPb/tryhackme/blob/master/00.info/Windows%20Fundamentals%203.md)
 - [What is Networking?](https://github.com/BEPb/tryhackme/blob/master/00.info/What%20is%20Networking.md)
-- [Polkit: CVE-2021-3560]()
+- [Polkit: CVE-2021-3560](https://github.com/BEPb/tryhackme/blob/master/00.info/Polkit%20CVE-2021-3560.md)
 - []()
 - []()
 - []()
