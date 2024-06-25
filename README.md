@@ -29,7 +29,7 @@
 - [Pwnkit: CVE-2021-4034](https://github.com/BEPb/tryhackme/blob/master/00.info/Pwnkit%20CVE-2021-4034.md)
 - [Security Awareness](https://github.com/BEPb/tryhackme/blob/master/00.info/Security%20Awareness.md)
 - [CVE-2021-41773/42013](https://github.com/BEPb/tryhackme/blob/master/00.info/CVE-2021-41773%2042013.md)
-- []()
+- [Learn and win prizes #2]()
 - []()
 - []()
 - []()
