@@ -4,79 +4,74 @@
 
 Всего 2 задания:
 ## Задание 1
-#### What is a file upload vulnerability?
+#### Что такое уязвимость загрузки файлов?
 
-This vulnerability occurs in web applications where there is the possibility of uploading a file without being checked by a security system that curbs potential dangers. 
+Данная уязвимость возникает в веб-приложениях, где существует вероятность загрузки файла без проверки системой 
+безопасности, которая предотвращает потенциальные опасности.  
 
-It allows an attacker to upload files with code (scripts such as .php, .aspx and more) and run them on the same server, more information in this room.
+Он позволяет злоумышленнику загружать файлы с кодом (скрипты, такие как .php, .aspx и другие) и запускать их на том 
+же сервере, более подробная информация в этой комнате. 
 
-Why this room?
+#### Почему именно эта комната?
 
-Among the typically applied measures is disabling dangerous functions that could execute operating system commands or start processes. Functions such as system() or shell_exec() are often disabled through PHP directives defined in the php.ini configuration file. Other functions, perhaps less known as dl() (which allows you to load a PHP extension dynamically), can go unnoticed by the system administrator and not be disabled. The usual thing in an intrusion test is to list which functions are enabled in case any have been forgotten.
+Среди обычно применяемых мер — отключение опасных функций, которые могут выполнять команды операционной системы или 
+запускать процессы. Такие функции, как system() или shell_exec(), часто отключаются с помощью директив PHP , 
+определенных в файле конфигурации php.ini. Другие функции, возможно, менее известные как dl() (которая позволяет 
+динамически загружать расширение PHP), могут остаться незамеченными системным администратором и не быть 
+отключенными. Обычно при тестировании на вторжение перечисляют, какие функции включены, на случай, если какие-то из 
+них были забыты.     
 
-One of the easiest techniques to implement and not very widespread is to abuse the mail() and putenv() functionalities. This technique is not new, it was already reported to PHP in 2008 by gat3way, but it still works to this day. Through the putenv() function, we can modify the environment variables, allowing us to assign the value we want to the variable LD_PRELOAD. Roughly LD_PRELOAD will allow us to pre-load a .so library before the rest of the libraries, so that if a program uses a function of a library (libc.so for example), it will execute the one in our library instead of the one it should. In this way, we can hijack or "hook" functions, modifying their behaviour at will.
+Один из самых простых в реализации и не очень распространенных методов — это злоупотребление функциональными 
+возможностями mail() и putenv(). Этот метод не нов, он уже был сообщен PHP в 2008 году gat3way, но он все еще 
+работает по сей день. С помощью функции putenv() мы можем изменять переменные окружения, что позволяет нам 
+присваивать нужное нам значение переменной LD_PRELOAD. Грубо говоря, LD_PRELOAD позволит нам предварительно 
+загрузить библиотеку .so перед остальными библиотеками, так что если программа использует функцию библиотеки 
+(например, libc.so), она выполнит функцию в нашей библиотеке вместо той, которую должна. Таким образом, мы можем 
+перехватывать или «перехватывать» функции, изменяя их поведение по своему усмотрению.
 
-Chankro: tool to evade disable_functions and open_basedir
+Chankro: инструмент для обхода disable_functions и open_basedir
 
-Through Chankro, we generate a PHP script that will act as a dropper, creating on the server a .so library and the binary (a meterpreter, for example) or bash script (reverse shell, for example) that we want to execute freely, and that will later call putenv() and mail() to launch the process.
+С помощью Chankro мы генерируем PHP- скрипт, который будет действовать как дроппер, создавая на сервере библиотеку.
+so и двоичный файл (например, meterpreter) или скрипт bash (например, обратная оболочка), которые мы хотим свободно 
+выполнять, и который позже будет вызывать putenv() и mail() для запуска процесса.
 
-Install tool:
+#### Установить инструмент:
 
-git clone https://github.com/TarlogicSecurity/Chankro.git
-cd Chankro
+git-клон https://github.com/TarlogicSecurity/Chankro.git
+компакт-диск шанкр
 python2 chankro.py --help
 
 python chankro.py --arch 64 --input c.sh --output tryhackme.php --path /var/www/html
 
---arch = Architecture of system victim 32 o 64.
---input = file with your payload to execute
---output = Name of the PHP file you are going to create; this is the file you will need to upload.
---path = It is necessary to specify the absolute path where our uploaded PHP file is located. For example, if our file is located in the uploads folder DOCUMENTROOT + uploads. 
+- --arch = Архитектура системы-жертвы 32 или 64.
+- --input = файл с полезной нагрузкой для выполнения
+- --output = Имя PHP- файла, который вы собираетесь создать; это файл, который вам нужно будет загрузить.
+- --path = Необходимо указать абсолютный путь, где находится наш загруженный PHP- файл. Например, если наш файл 
+  находится в папке uploads DOCUMENTROOT + uploads. 
 
 
 
-Now, when executing the PHP script in the web server, the necessary files will be created to execute our payload.
+Теперь при выполнении PHP- скрипта на веб-сервере будут созданы необходимые файлы для выполнения нашей полезной нагрузки.
 
 
-My command run successfully, and I created a file in the directory with the output of the command.
+Моя команда успешно выполнилась, и я создал файл в каталоге с выводом команды.
 
-Credits.
+Кредиты .
 
-All credit goes to Tarlogic for the script and explaining the method of the bypass.
-Answer the questions below
-Read the above.
+Вся заслуга принадлежит Tarlogic за сценарий и объяснение метода обхода.
+Ответить на вопросы ниже
+Прочитайте вышеизложенное.
 
 ```commandline
 Ответ не нужен
 ```
 
 ## Задание 2
-
+Ответить на вопросы ниже
+Взломайте машину и найдите файл flag.txt
 ```commandline
-Ответ не нужен
+thm{bypass_d1sable_functions_1n_php}
 ```
 
-## Задание 3
- 
-```commandline
-Ответ не нужен
-```
-
-## Задание 4
- 
-```commandline
-Ответ не нужен
-```
-
-## Задание 5
-```commandline
-Ответ не нужен
-```
-
-## Задание 6
-
-```commandline
-Ответ не нужен
-```
 
 [>> вернуться на главную страницу](https://github.com/BEPb/tryhackme/blob/master/README.md)
