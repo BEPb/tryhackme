@@ -1,6 +1,6 @@
 [>> вернуться на главную страницу](https://github.com/BEPb/tryhackme/blob/master/README.md)
 
-# Комната [Windows Fundamentals 2]() 
+# Комната [Windows Fundamentals 2](https://tryhackme.com/r/room/windowsfundamentals2x0x) 
 
 Всего 9 заданий:
 ## Задание 1
