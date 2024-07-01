@@ -38,7 +38,7 @@
 - [History of Malware](https://github.com/BEPb/tryhackme/blob/master/00.info/History%20of%20Malware.md)
 - [REmux The Tmux](https://github.com/BEPb/tryhackme/blob/master/00.info/REmux%20The%20Tmux.md)
 - [Sudo Security Bypass](https://github.com/BEPb/tryhackme/blob/master/00.info/Sudo%20Security%20Bypass.md)
-- []()
+- [Sudo Buffer Overflow]()
 - []()
 - []()
 - [Linux Fundamentals Part 1](https://github.com/BEPb/tryhackme/blob/master/00.info/Linux%20Fundamentals%20Part%201.md)
