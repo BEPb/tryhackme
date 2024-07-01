@@ -37,7 +37,7 @@
 - [Windows Fundamentals 2](https://github.com/BEPb/tryhackme/blob/master/00.info/Windows%20Fundamentals%202.md)
 - [History of Malware](https://github.com/BEPb/tryhackme/blob/master/00.info/History%20of%20Malware.md)
 - [REmux The Tmux](https://github.com/BEPb/tryhackme/blob/master/00.info/REmux%20The%20Tmux.md)
-- [Sudo Security Bypass]()
+- [Sudo Security Bypass](https://github.com/BEPb/tryhackme/blob/master/00.info/Sudo%20Security%20Bypass.md)
 - []()
 - []()
 - []()
