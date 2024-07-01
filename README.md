@@ -42,7 +42,7 @@
 - [Windows Fundamentals 2](https://github.com/BEPb/tryhackme/blob/master/00.info/Windows%20Fundamentals%202.md)
 - [Windows Fundamentals 3](https://github.com/BEPb/tryhackme/blob/master/00.info/Windows%20Fundamentals%203.md)
 ## простые комнаты:
-- [Publisher]()
+- [Publisher](https://github.com/BEPb/tryhackme/blob/master/01.easy/Publisher.md)
 - []()
 - []()
 - []()
