@@ -25,7 +25,7 @@
 - [Careers in Cyber](https://github.com/BEPb/tryhackme/blob/master/00.info/Careers%20in%20Cyber.md)
 - [Dirty Pipe: CVE-2022-0847](https://github.com/BEPb/tryhackme/blob/master/00.info/Dirty%20Pipe%20CVE-2022-0847.md)
 - [History of Malware](https://github.com/BEPb/tryhackme/blob/master/00.info/History%20of%20Malware.md)
-- [Intro to IR and IM](https://github.com/BEPb/tryhackme/blob/master/00.info/Win%20Prizes%20and%20Learn%20-%202023!.md) 
+- [Intro to IR and IM](https://github.com/BEPb/tryhackme/blob/master/00.info/Intro%20to%20IR%20and%20IM.md) 
 - [Learn & win prizes - Fall 2022](https://github.com/BEPb/tryhackme/blob/master/00.info/Learn%20%26%20win%20prizes%20-%20Fall%202022.md)
 - [Learn and win prizes #2](https://github.com/BEPb/tryhackme/blob/master/00.info/Learn%20and%20win%20prizes%20%232.md)
 - [Learn and win prizes](https://github.com/BEPb/tryhackme/blob/master/00.info/Learn%20and%20win%20prizes.md)
