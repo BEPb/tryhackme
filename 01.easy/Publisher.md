@@ -28,9 +28,9 @@ fa229046d44eda6a3598c73ad96f4ca5
 #### 1.1. Можно подключится через собственную консоль на вашей личной kali linux
 Для этого в коносли используем программу openvpn и указываем ей путь на ваш ключ openvpn
 ```commandline
-
-```
 openvpn /home/kali/Documents/THM-openvpn/andrej.marinchenko.ovpn
+```
+
 после того как соединение будет установлено проверяем полученный ip адресс командой
 
 ```commandline
@@ -479,7 +479,7 @@ bash-5.0# whoami
 root
 ```
 
-### 7. получи искомый флаг супер пользователя:
+### 7. получим искомый флаг супер пользователя:
 ```commandline
 bash-5.0# ls /root
 root.txt  spip
