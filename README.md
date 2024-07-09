@@ -19,7 +19,7 @@
 
 ## Начнем с информационных комнат, они нам дадут необходимую базу:
 - [Advent of Cyber '23 Side Quest](https://github.com/BEPb/tryhackme/blob/master/00.info/Advent%20of%20Cyber%20'23%20Side%20Quest.md)
-- [Baron Samedit]()
+- [Baron Samedit](https://github.com/BEPb/tryhackme/blob/master/00.info/Baron%20Samedit.md)
 - [Burp Suite: Repeater](https://github.com/BEPb/tryhackme/blob/master/00.info/Burp%20Suite%20Repeater.md)
 - [Bypass Disable Functions](https://github.com/BEPb/tryhackme/blob/master/00.info/Bypass%20Disable%20Functions.md)
 - [CVE-2021-41773/42013](https://github.com/BEPb/tryhackme/blob/master/00.info/CVE-2021-41773%2042013.md)
