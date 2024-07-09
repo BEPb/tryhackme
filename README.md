@@ -47,7 +47,7 @@
 ## Простые комнаты:
 - [Publisher](https://github.com/BEPb/tryhackme/blob/master/01.easy/Publisher/Publisher.md)
 - [Linux File System Analysis](https://github.com/BEPb/tryhackme/blob/master/01.easy/Linux%20File%20System%20Analysis.md)
-- []()
+- [Moniker Link (CVE-2024-21413)]()
 - []()
 - []()
 - []()
