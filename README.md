@@ -46,7 +46,7 @@
 
 ## Простые комнаты:
 - [Publisher](https://github.com/BEPb/tryhackme/blob/master/01.easy/Publisher/Publisher.md)
-- []()
+- [Linux File System Analysis]()
 - []()
 - []()
 - []()
