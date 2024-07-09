@@ -49,7 +49,7 @@
 - [Linux File System Analysis](https://github.com/BEPb/tryhackme/blob/master/01.easy/Linux%20File%20System%20Analysis.md)
 - [Moniker Link (CVE-2024-21413)](https://github.com/BEPb/tryhackme/blob/master/01.easy/Moniker%20Link%20(CVE-2024-21413).md)
 - [Intro to IaC](https://github.com/BEPb/tryhackme/blob/master/01.easy/Intro%20to%20IaC.md)
-- [Eviction]()
+- [Eviction](https://github.com/BEPb/tryhackme/blob/master/01.easy/Eviction.md)
 - []()
 - []()
 - []()
