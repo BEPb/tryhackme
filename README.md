@@ -50,7 +50,7 @@
 - [Moniker Link (CVE-2024-21413)](https://github.com/BEPb/tryhackme/blob/master/01.easy/Moniker%20Link%20(CVE-2024-21413).md)
 - [Intro to IaC](https://github.com/BEPb/tryhackme/blob/master/01.easy/Intro%20to%20IaC.md)
 - [Eviction](https://github.com/BEPb/tryhackme/blob/master/01.easy/Eviction.md)
-- [HTTP Request Smuggling]()
+- [HTTP Request Smuggling](https://github.com/BEPb/tryhackme/blob/master/01.easy/HTTP%20Request%20Smuggling.md)
 - []()
 - []()
 - []()
