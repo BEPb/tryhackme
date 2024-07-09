@@ -1,8 +1,8 @@
 [>> вернуться на главную страницу](https://github.com/BEPb/tryhackme/blob/master/README.md)
 
-# Комната [Intro to IaC]() 
+# Комната [Intro to IaC](https://tryhackme.com/r/room/introtoiac) 
 
-Всего 5 заданий:
+Всего 8 заданий:
 ## Задание 1
 
 ```commandline
@@ -32,5 +32,19 @@
 ```commandline
 Ответ не нужен
 ```
+## Задание 6
 
+```commandline
+Ответ не нужен
+```
+## Задание 7
+
+```commandline
+Ответ не нужен
+```
+## Задание 8
+
+```commandline
+Ответ не нужен
+```
 [>> вернуться на главную страницу](https://github.com/BEPb/tryhackme/blob/master/README.md)
