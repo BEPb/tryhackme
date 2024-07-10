@@ -1,6 +1,6 @@
 [>> вернуться на главную страницу](https://github.com/BEPb/tryhackme/blob/master/README.md)
 
-# Комната [Google Dorking]() 
+# Комната [Google Dorking](https://tryhackme.com/r/room/googledorking) 
 
 Всего 5 заданий:
 ## Задание 1
