@@ -56,7 +56,7 @@
 - [RootMe](https://github.com/BEPb/tryhackme/blob/master/01.easy/RootMe/RootMe.md)
 - [Network Services 2](https://github.com/BEPb/tryhackme/blob/master/01.easy/Network%20Services%202.md)
 - [Google Dorking](https://github.com/BEPb/tryhackme/blob/master/01.easy/Google%20Dorking.md)
-- [Simple CTF](https://github.com/BEPb/tryhackme/blob/master/01.easy/Simple%20CTF.md)
+- [Simple CTF](https://github.com/BEPb/tryhackme/blob/master/01.easy/Simple%20CTF/Simple%20CTF.md)
 - []()
 - []()
 - []()
