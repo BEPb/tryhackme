@@ -57,7 +57,7 @@
 - [Network Services 2](https://github.com/BEPb/tryhackme/blob/master/01.easy/Network%20Services%202.md)
 - [Google Dorking](https://github.com/BEPb/tryhackme/blob/master/01.easy/Google%20Dorking.md)
 - [Simple CTF](https://github.com/BEPb/tryhackme/blob/master/01.easy/Simple%20CTF/Simple%20CTF.md)
-- [Intro to Digital Forensics]()
+- [Intro to Digital Forensics](https://github.com/BEPb/tryhackme/blob/master/01.easy/Intro%20to%20Digital%20Forensics.md)
 - []()
 - []()
 - []()
