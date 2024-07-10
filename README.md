@@ -51,7 +51,7 @@
 - [Intro to IaC](https://github.com/BEPb/tryhackme/blob/master/01.easy/Intro%20to%20IaC.md)
 - [Eviction](https://github.com/BEPb/tryhackme/blob/master/01.easy/Eviction.md)
 - [HTTP Request Smuggling](https://github.com/BEPb/tryhackme/blob/master/01.easy/HTTP%20Request%20Smuggling.md)
-- []()
+- [Metasploit: Introduction]()
 - []()
 - []()
 - []()
