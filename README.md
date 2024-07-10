@@ -53,7 +53,7 @@
 - [HTTP Request Smuggling](https://github.com/BEPb/tryhackme/blob/master/01.easy/HTTP%20Request%20Smuggling.md)
 - [Metasploit: Introduction](https://github.com/BEPb/tryhackme/blob/master/01.easy/Metasploit%20Introduction.md)
 - [Kenobi](https://github.com/BEPb/tryhackme/blob/master/01.easy/Kenobi.md)
-- [RootMe]()
+- [RootMe](https://github.com/BEPb/tryhackme/blob/master/01.easy/RootMe.md)
 - []()
 - []()
 - []()
