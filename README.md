@@ -54,7 +54,7 @@
 - [Metasploit: Introduction](https://github.com/BEPb/tryhackme/blob/master/01.easy/Metasploit%20Introduction.md)
 - [Kenobi](https://github.com/BEPb/tryhackme/blob/master/01.easy/Kenobi.md)
 - [RootMe](https://github.com/BEPb/tryhackme/blob/master/01.easy/RootMe/RootMe.md)
-- [Network Services 2]()
+- [Network Services 2](https://github.com/BEPb/tryhackme/blob/master/01.easy/Network%20Services%202.md)
 - []()
 - []()
 - []()
