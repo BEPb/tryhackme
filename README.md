@@ -64,7 +64,7 @@
 - [Pyramid Of Pain](https://github.com/BEPb/tryhackme/blob/master/01.easy/Pyramid%20Of%20Pain.md)
 - [Python Basics](https://github.com/BEPb/tryhackme/blob/master/01.easy/Python%20Basics.md)
 - [Intro to Offensive Security](https://github.com/BEPb/tryhackme/blob/master/01.easy/Intro%20to%20Offensive%20Security.md)
-- [Nmap]()
+- [Nmap](https://github.com/BEPb/tryhackme/blob/master/01.easy/Nmap.md)
 - []()
 - []()
 - []()
