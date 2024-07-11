@@ -62,7 +62,7 @@
 - [OWASP Juice Shop](https://github.com/BEPb/tryhackme/blob/master/01.easy/OWASP%20Juice%20Shop.md)
 - [OhSINT](https://github.com/BEPb/tryhackme/blob/master/01.easy/OhSINT.md)
 - [Passive Reconnaissance](https://github.com/BEPb/tryhackme/blob/master/01.easy/Passive%20Reconnaissance.md)
-- []()
+- [Pyramid Of Pain]()
 - []()
 - []()
 - []()
