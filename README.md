@@ -60,7 +60,7 @@
 - [Intro to Digital Forensics](https://github.com/BEPb/tryhackme/blob/master/01.easy/Intro%20to%20Digital%20Forensics.md)
 - [Hydra](https://github.com/BEPb/tryhackme/blob/master/01.easy/Hydra.md)
 - [OWASP Juice Shop](https://github.com/BEPb/tryhackme/blob/master/01.easy/OWASP%20Juice%20Shop.md)
-- [OhSINT]()
+- [OhSINT](https://github.com/BEPb/tryhackme/blob/master/01.easy/OhSINT.md)
 - []()
 - []()
 - []()
