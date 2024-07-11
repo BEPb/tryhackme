@@ -61,7 +61,7 @@
 - [Hydra](https://github.com/BEPb/tryhackme/blob/master/01.easy/Hydra.md)
 - [OWASP Juice Shop](https://github.com/BEPb/tryhackme/blob/master/01.easy/OWASP%20Juice%20Shop.md)
 - [OhSINT](https://github.com/BEPb/tryhackme/blob/master/01.easy/OhSINT.md)
-- []()
+- [Passive Reconnaissance]()
 - []()
 - []()
 - []()
