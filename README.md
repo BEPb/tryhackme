@@ -63,7 +63,7 @@
 - [OhSINT](https://github.com/BEPb/tryhackme/blob/master/01.easy/OhSINT.md)
 - [Passive Reconnaissance](https://github.com/BEPb/tryhackme/blob/master/01.easy/Passive%20Reconnaissance.md)
 - [Pyramid Of Pain](https://github.com/BEPb/tryhackme/blob/master/01.easy/Pyramid%20Of%20Pain.md)
-- [Python Basics]()
+- [Python Basics](https://github.com/BEPb/tryhackme/blob/master/01.easy/Python%20Basics.md)
 - []()
 - []()
 - []()
