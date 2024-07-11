@@ -14,7 +14,6 @@
 <img src="./art/tryhackme.jpeg" alt="logo" width="300" height="156.5">
 
 # От нуля до бога tryhackme бесплатно 
-
 </div>
 
 ## Начнем с информационных комнат, они нам дадут необходимую базу:
@@ -64,6 +63,33 @@
 - [Passive Reconnaissance](https://github.com/BEPb/tryhackme/blob/master/01.easy/Passive%20Reconnaissance.md)
 - [Pyramid Of Pain](https://github.com/BEPb/tryhackme/blob/master/01.easy/Pyramid%20Of%20Pain.md)
 - [Python Basics](https://github.com/BEPb/tryhackme/blob/master/01.easy/Python%20Basics.md)
+- [Intro to Offensive Security]()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 - []()
 - []()
 - []()
