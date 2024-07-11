@@ -59,7 +59,7 @@
 - [Simple CTF](https://github.com/BEPb/tryhackme/blob/master/01.easy/Simple%20CTF/Simple%20CTF.md)
 - [Intro to Digital Forensics](https://github.com/BEPb/tryhackme/blob/master/01.easy/Intro%20to%20Digital%20Forensics.md)
 - [Hydra](https://github.com/BEPb/tryhackme/blob/master/01.easy/Hydra.md)
-- []()
+- [OWASP Juice Shop]()
 - []()
 - []()
 - []()
