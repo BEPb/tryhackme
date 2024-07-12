@@ -65,7 +65,7 @@
 - [Python Basics](https://github.com/BEPb/tryhackme/blob/master/01.easy/Python%20Basics.md)
 - [Intro to Offensive Security](https://github.com/BEPb/tryhackme/blob/master/01.easy/Intro%20to%20Offensive%20Security.md)
 - [Nmap](https://github.com/BEPb/tryhackme/blob/master/01.easy/Nmap.md)
-- []()
+- [Learning Cyber Security]()
 - []()
 - []()
 - []()
