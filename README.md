@@ -66,7 +66,7 @@
 - [Intro to Offensive Security](https://github.com/BEPb/tryhackme/blob/master/01.easy/Intro%20to%20Offensive%20Security.md)
 - [Nmap](https://github.com/BEPb/tryhackme/blob/master/01.easy/Nmap.md)
 - [Learning Cyber Security](https://github.com/BEPb/tryhackme/blob/master/01.easy/Learning%20Cyber%20Security.md)
-- []()
+- [Pentesting Fundamentals]()
 - []()
 - []()
 - []()
