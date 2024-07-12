@@ -68,7 +68,7 @@
 - [Learning Cyber Security](https://github.com/BEPb/tryhackme/blob/master/01.easy/Learning%20Cyber%20Security.md)
 - [Pentesting Fundamentals](https://github.com/BEPb/tryhackme/blob/master/01.easy/Pentesting%20Fundamentals.md)
 - [Intro to Defensive Security](https://github.com/BEPb/tryhackme/blob/master/01.easy/Intro%20to%20Defensive%20Security.md)
-- []()
+- [Advent of Cyber 2022]()
 - []()
 - []()
 - []()
