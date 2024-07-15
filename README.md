@@ -70,7 +70,7 @@
 - [Intro to Defensive Security](https://github.com/BEPb/tryhackme/blob/master/01.easy/Intro%20to%20Defensive%20Security.md)
 - [Advent of Cyber 2022](https://github.com/BEPb/tryhackme/blob/master/01.easy/Advent%20of%20Cyber%202022.md)
 - [OpenVPN](https://github.com/BEPb/tryhackme/blob/master/01.easy/OpenVPN.md)
-- []()
+- [Introductory Researching]()
 - []()
 - []()
 - []()
