@@ -78,7 +78,7 @@
 - [Starting Out In Cyber Sec](https://github.com/BEPb/tryhackme/blob/master/01.easy/Starting%20Out%20In%20Cyber%20Sec.md)
 - [DNS in detail](https://github.com/BEPb/tryhackme/blob/master/01.easy/DNS%20in%20detail.md)
 - [OWASP Top 10](https://github.com/BEPb/tryhackme/blob/master/01.easy/OWASP%20Top%2010.md)
-- []()
+- [Blue]()
 - []()
 - []()
 - []()
