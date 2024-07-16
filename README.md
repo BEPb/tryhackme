@@ -79,7 +79,7 @@
 - [DNS in detail](https://github.com/BEPb/tryhackme/blob/master/01.easy/DNS%20in%20detail.md)
 - [OWASP Top 10](https://github.com/BEPb/tryhackme/blob/master/01.easy/OWASP%20Top%2010.md)
 - [Blue](https://github.com/BEPb/tryhackme/blob/master/01.easy/Blue.md)
-- []()
+- [Advent of Cyber 2023]()
 - []()
 - []()
 - []()
