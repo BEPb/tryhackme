@@ -81,7 +81,7 @@
 - [Blue](https://github.com/BEPb/tryhackme/blob/master/01.easy/Blue.md)
 - [Advent of Cyber 2023](https://github.com/BEPb/tryhackme/blob/master/01.easy/Advent%20of%20Cyber%202023.md)
 - [Linux Strength Training](https://github.com/BEPb/tryhackme/blob/master/01.easy/Linux%20Strength%20Training.md)
-- [Junior Security Analyst Intro]()
+- [Junior Security Analyst Intro](https://github.com/BEPb/tryhackme/blob/master/01.easy/Junior%20Security%20Analyst%20Intro.md)
 - []()
 - []()
 - []()
