@@ -80,7 +80,7 @@
 - [OWASP Top 10](https://github.com/BEPb/tryhackme/blob/master/01.easy/OWASP%20Top%2010.md)
 - [Blue](https://github.com/BEPb/tryhackme/blob/master/01.easy/Blue.md)
 - [Advent of Cyber 2023](https://github.com/BEPb/tryhackme/blob/master/01.easy/Advent%20of%20Cyber%202023.md)
-- [Linux Strength Training]()
+- [Linux Strength Training](https://github.com/BEPb/tryhackme/blob/master/01.easy/Linux%20Strength%20Training.md)
 - []()
 - []()
 - []()
