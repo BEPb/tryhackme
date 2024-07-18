@@ -86,7 +86,8 @@
 - [Red Team Fundamentals](https://github.com/BEPb/tryhackme/blob/master/01.easy/Red%20Team%20Fundamentals.md)
 - [Network Services](https://github.com/BEPb/tryhackme/blob/master/01.easy/Network%20Services.md)
 - [Advent of Cyber 2 [2020]](https://github.com/BEPb/tryhackme/blob/master/01.easy/Advent%20of%20Cyber%202%20%5B2020%5D.md)
-- [SQL Injection Lab]()
+
+- [HTTP in Detail]()
 - []()
 - []()
 - []()
@@ -133,8 +134,7 @@
 - []()
 - []()
 - []()
-- []()
-- []()
+- [SQL Injection Lab](https://github.com/BEPb/tryhackme/blob/master/01.easy/SQL%20Injection%20Lab.md)
 - [Windows Incident Surface](https://github.com/BEPb/tryhackme/blob/master/01.easy/Windows%20Incident%20Surface/Windows%20Incident%20Surface.md)
 
 
