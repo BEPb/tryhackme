@@ -91,7 +91,7 @@
 - [Bounty Hacker](https://github.com/BEPb/tryhackme/blob/master/01.easy/Bounty%20Hacker.md)
 - [Agent Sudo](https://github.com/BEPb/tryhackme/blob/master/01.easy/Agent%20Sudo.md)
 - [Putting it all together](https://github.com/BEPb/tryhackme/blob/master/01.easy/Putting%20it%20all%20together.md)
-- []()
+- [Red Team Engagements]()
 - []()
 - []()
 - []()
