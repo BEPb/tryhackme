@@ -94,7 +94,7 @@
 - [Red Team Engagements](https://github.com/BEPb/tryhackme/blob/master/01.easy/Red%20Team%20Engagements.md)
 - [How Websites Work](https://github.com/BEPb/tryhackme/blob/master/01.easy/How%20Websites%20Work.md)
 - [Crack the hash](https://github.com/BEPb/tryhackme/blob/master/01.easy/Crack%20the%20hash.md)
-- [Nessus]()
+- [Nessus](https://github.com/BEPb/tryhackme/blob/master/01.easy/Nessus.md)
 - []()
 - []()
 - []()
