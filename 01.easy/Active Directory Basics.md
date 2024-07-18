@@ -720,7 +720,8 @@ Room (будет выпущена в ближайшее время). Если ж
 Directory.
 
 ### Ответить на вопросы ниже
-```commandline
 Нажмите и продолжайте обучение!
+```commandline
+Ответ не требуется
 ```
 [>> вернуться на главную страницу](https://github.com/BEPb/tryhackme/blob/master/README.md)
