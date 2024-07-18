@@ -93,7 +93,7 @@
 - [Putting it all together](https://github.com/BEPb/tryhackme/blob/master/01.easy/Putting%20it%20all%20together.md)
 - [Red Team Engagements](https://github.com/BEPb/tryhackme/blob/master/01.easy/Red%20Team%20Engagements.md)
 - [How Websites Work](https://github.com/BEPb/tryhackme/blob/master/01.easy/How%20Websites%20Work.md)
-- []()
+- [Crack the hash]()
 - []()
 - []()
 - []()
