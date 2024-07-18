@@ -86,8 +86,7 @@
 - [Red Team Fundamentals](https://github.com/BEPb/tryhackme/blob/master/01.easy/Red%20Team%20Fundamentals.md)
 - [Network Services](https://github.com/BEPb/tryhackme/blob/master/01.easy/Network%20Services.md)
 - [Advent of Cyber 2 [2020]](https://github.com/BEPb/tryhackme/blob/master/01.easy/Advent%20of%20Cyber%202%20%5B2020%5D.md)
-
-- [HTTP in Detail]()
+- [HTTP in Detail](https://github.com/BEPb/tryhackme/blob/master/01.easy/HTTP%20in%20Detail.md)
 - []()
 - []()
 - []()
