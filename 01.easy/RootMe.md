@@ -51,7 +51,6 @@ Nmap done: 1 IP address (1 host up) scanned in 13.14 seconds
 2
 ```
 Какая версия Apache используется?
-
 ```commandline
 2.4.29
 ```
@@ -93,7 +92,6 @@ Finished
 Ответ не нужен
 ```
 Что такое скрытый каталог?
-
 ```commandline
 /panel/
 ```
