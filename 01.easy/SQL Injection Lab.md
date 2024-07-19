@@ -1,6 +1,6 @@
 [>> вернуться на главную страницу](https://github.com/BEPb/tryhackme/blob/master/README.md)
 
-# Комната [SQL Injection Lab]() 
+# Комната [SQL Injection Lab](https://tryhackme.com/r/room/sqlilab) 
 
 Всего 10 заданий:
 ## Задание 1
