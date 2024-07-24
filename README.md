@@ -101,7 +101,7 @@
 - [Cyber Kill Chain](https://github.com/BEPb/tryhackme/blob/master/01.easy/Cyber%20Kill%20Chain.md)
 - [Overpass](https://github.com/BEPb/tryhackme/blob/master/01.easy/Overpass.md)
 - [Vulnerabilities 101](https://github.com/BEPb/tryhackme/blob/master/01.easy/Vulnerabilities%20101.md)
-- []()
+- [MAL: Malware Introductory]()
 - []()
 - []()
 - []()
