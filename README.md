@@ -103,7 +103,7 @@
 - [Vulnerabilities 101](https://github.com/BEPb/tryhackme/blob/master/01.easy/Vulnerabilities%20101.md)
 - [MAL: Malware Introductory](https://github.com/BEPb/tryhackme/blob/master/01.easy/MAL%20Malware%20Introductory.md)
 - [LazyAdmin](https://github.com/BEPb/tryhackme/blob/master/01.easy/LazyAdmin.md)
-- []()
+- [c4ptur3-th3-fl4g]()
 - []()
 - []()
 - []()
