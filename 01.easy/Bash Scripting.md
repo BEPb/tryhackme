@@ -1,6 +1,6 @@
 [>> вернуться на главную страницу](https://github.com/BEPb/tryhackme/blob/master/README.md)
 
-# Комната [Bash Scripting]() 
+# Комната [Bash Scripting](https://tryhackme.com/r/room/bashscripting) 
 
 Всего 7 заданий:
 ## Задание 1
