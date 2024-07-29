@@ -105,7 +105,7 @@
 - [LazyAdmin](https://github.com/BEPb/tryhackme/blob/master/01.easy/LazyAdmin.md)
 - [c4ptur3-th3-fl4g](https://github.com/BEPb/tryhackme/blob/master/01.easy/c4ptur3-th3-fl4g.md)
 - [Bash Scripting](https://github.com/BEPb/tryhackme/blob/master/01.easy/Bash%20Scripting.md)
-- []()
+- [Investigating Windows]()
 - []()
 - []()
 - []()
