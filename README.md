@@ -108,7 +108,7 @@
 - [Investigating Windows](https://github.com/BEPb/tryhackme/blob/master/01.easy/Investigating%20Windows.md)
 - [Buffer Overflow Prep](https://github.com/BEPb/tryhackme/blob/master/01.easy/Buffer%20Overflow%20Prep.md)
 - [Advent of Cyber 1 [2019]](https://github.com/BEPb/tryhackme/blob/master/01.easy/Advent%20of%20Cyber%201%20%5B2019%5D.md)
-- []()
+- [Phishing Analysis Fundamentals]()
 - []()
 - []()
 - []()
