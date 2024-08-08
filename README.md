@@ -113,7 +113,7 @@
 - [Post-Exploitation Basics](https://github.com/BEPb/tryhackme/blob/master/01.easy/Post-Exploitation%20Basics.md)
 - [Cyborg](https://github.com/BEPb/tryhackme/blob/master/01.easy/Cyborg.md)
 - [tomghost](https://github.com/BEPb/tryhackme/blob/master/01.easy/tomghost.md)
-- [Become a Hacker]()
+- [Become a Hacker](https://github.com/BEPb/tryhackme/blob/master/01.easy/Become%20a%20Hacker.md)
 - []()
 - []()
 - []()
