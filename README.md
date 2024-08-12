@@ -115,7 +115,7 @@
 - [tomghost](https://github.com/BEPb/tryhackme/blob/master/01.easy/tomghost.md)
 - [Become a Hacker](https://github.com/BEPb/tryhackme/blob/master/01.easy/Become%20a%20Hacker.md)
 - [Brooklyn Nine Nine](https://github.com/BEPb/tryhackme/blob/master/01.easy/Brooklyn%20Nine%20Nine.md)
-- [Ignite]()
+- [Ignite](https://github.com/BEPb/tryhackme/blob/master/01.easy/Ignite.md)
 - []()
 - []()
 - []()
