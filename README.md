@@ -116,7 +116,7 @@
 - [Become a Hacker](https://github.com/BEPb/tryhackme/blob/master/01.easy/Become%20a%20Hacker.md)
 - [Brooklyn Nine Nine](https://github.com/BEPb/tryhackme/blob/master/01.easy/Brooklyn%20Nine%20Nine.md)
 - [Ignite](https://github.com/BEPb/tryhackme/blob/master/01.easy/Ignite.md)
-- [Intro to Cyber Threat Intel]()
+- [Intro to Cyber Threat Intel](https://github.com/BEPb/tryhackme/blob/master/01.easy/Intro%20to%20Cyber%20Threat%20Intel.md)
 - []()
 - []()
 - []()
