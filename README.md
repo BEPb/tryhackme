@@ -118,7 +118,7 @@
 - [Ignite](https://github.com/BEPb/tryhackme/blob/master/01.easy/Ignite.md)
 - [Intro to Cyber Threat Intel](https://github.com/BEPb/tryhackme/blob/master/01.easy/Intro%20to%20Cyber%20Threat%20Intel.md)
 - [Security Engineer Intro](https://github.com/BEPb/tryhackme/blob/master/01.easy/Security%20Engineer%20Intro.md)
-- [Threat Intelligence Tools]()
+- [Threat Intelligence Tools](https://github.com/BEPb/tryhackme/blob/master/01.easy/Threat%20Intelligence%20Tools.md)
 - []()
 - []()
 - []()
