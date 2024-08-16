@@ -119,7 +119,7 @@
 - [Intro to Cyber Threat Intel](https://github.com/BEPb/tryhackme/blob/master/01.easy/Intro%20to%20Cyber%20Threat%20Intel.md)
 - [Security Engineer Intro](https://github.com/BEPb/tryhackme/blob/master/01.easy/Security%20Engineer%20Intro.md)
 - [Threat Intelligence Tools](https://github.com/BEPb/tryhackme/blob/master/01.easy/Threat%20Intelligence%20Tools.md)
-- [Wgel CTF]()
+- [Wgel CTF](https://github.com/BEPb/tryhackme/blob/master/01.easy/Wgel%20CTF.md)
 - []()
 - []()
 - []()
