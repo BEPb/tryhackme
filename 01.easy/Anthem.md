@@ -17,6 +17,9 @@
 ### Ответьте на вопросы ниже
 Давайте запустим nmap и проверим, какие порты открыты.
 ```commandline
+nmap -sS -sV -A <IP>
+```
+```commandline
 Ответ не требуется
 ```
 Какой порт у веб-сервера?
@@ -28,6 +31,9 @@
 3389
 ```
 Какой возможный пароль находится на одной из страниц, которые проверяют веб-сканеры?
+```commandline
+# http://<IP>/robots.txt
+```
 ```commandline
 UmbracoIsTheBest!
 ```
@@ -54,17 +60,29 @@ SG@anthem.com
 ### Ответьте на вопросы ниже
 Что такое флаг 1?
 ```commandline
+# http://<IP>/archive/we-are hiring/ > view source code
+```
+```commandline
 THM{L0L_WH0_US3S_M3T4}
 ```
 Что такое флаг 2?
+```commandline
+http://<IP>/archive/a-cheers-to-our-itdepartments/ > view source code
+```
 ```commandline
 THM{G!T_G00D}
 ```
 Что такое флаг 3?
 ```commandline
+http://<IP>/authors/jane-doe/
+```
+```commandline
 THM{L0L_WH0_D15}
 ```
 Что такое флаг 4?
+```commandline
+http://<IP>/archive/a-cheers-to-our-it-departmenst/ > view source code
+```
 ```commandline
 THM{AN0TH3R_M3TA}
 ```
@@ -79,13 +97,23 @@ THM{AN0TH3R_M3TA}
 ```
 Получите начальный доступ к машине. Каково содержимое файла user.txt?
 ```commandline
+rdesktop -u SG -p UmbracoIsTheBest! <IP>
+user.txt
+```
+```commandline
 THM{N00T_NO0T}
 ```
 Можем ли мы узнать пароль администратора?
 ```commandline
+select restore.txt > Right click > properties > security > edit >type SG and click check nanes> ok>apply.
+```
+```commandline
 ChangeMeBaby1MoreTime
 ```
 Повысьте свои привилегии до root. Каково содержимое файла root.txt?
+```commandline
+C://Users/Administrator/Desktop/root.txt
+```
 ```commandline
 THM{Y0U_4R3_1337}
 ```
