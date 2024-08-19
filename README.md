@@ -130,7 +130,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Wifi Hacking 101](https://github.com/BEPb/tryhackme/blob/master/01.easy/Wifi%20Hacking%20101.md)
 - [Year of the Rabbit](https://github.com/BEPb/tryhackme/blob/master/01.easy/Year%20of%20the%20Rabbit.md)
 - [Anthem](https://github.com/BEPb/tryhackme/blob/master/01.easy/Anthem.md)
-- [CTF collection Vol.1](https://github.com/BEPb/tryhackme/blob/master/01.easy/CTF%20collection%20Vol.1.md)
+- [CTF collection Vol.1](https://github.com/BEPb/tryhackme/blob/master/01.easy/CTF%20collection%20Vol1/CTF%20collection%20Vol.1.md)
 - []()
 - []()
 - []()

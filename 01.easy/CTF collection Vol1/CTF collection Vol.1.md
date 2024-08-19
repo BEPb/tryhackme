@@ -221,42 +221,7 @@ THM{17_h45_l3553r_l3773r5}
 попыток, тем быстрее и эффективнее вы будете это делать. 
 
 Будучи Maverick, это кричит о простом скрипте bash, чтобы пропустить эту строку через столько схем кодирования, 
-сколько мы можем, чтобы сэкономить нам время. Скрипт bash  
-
-```commandline
-#!/bin/bash
-
-# Read input string from command prompt
-read -p "Enter the encoded string: " encoded_string
-
-# Display the original string
-echo
-echo "Original String: $encoded_string"
-echo
-# Decode using base32
-decoded_base32=$(echo "$encoded_string" | base32 -d)
-if [[ -n "$decoded_base32" ]]; then
-    echo "Decoded (Base32): $decoded_base32"
-fi
-
-echo
-
-# Decode using base58
-decoded_base58=$(echo "$encoded_string" | base58 -d)
-if [[ -n "$decoded_base58" ]]; then
-    echo "Decoded (Base58): $decoded_base58"
-fi
-
-echo
-
-# Decode using base64
-decoded_base64=$(echo "$encoded_string" | base64 -d)
-if [[ -n "$decoded_base64" ]]; then
-    echo "Decoded (Base64): $decoded_base64"
-fi
-
-echo
-```
+сколько мы можем, чтобы сэкономить нам время. Скрипт найдете по ссылке [bash](https://github.com/BEPb/tryhackme/blob/master/01.easy/CTF%20collection%20Vol1/base-decoder.sh)
 
 ```commandline
 THM{17_h45_l3553r_l3773r5}
@@ -288,41 +253,10 @@ ROT26 не используется для перебора шифра ROT, по
 
 Эту задачу можно автоматизировать, и вы сможете добавить этот скрипт в свой набор инструментов для будущих CTF.
 
-Ниже приведен простой скрипт Python для брутфорса ROT1 вплоть до расшифровки ROT25 для заданной строки. Мы сохранили это в rot1_25-bruteforce.py .
+По ссылке находится простой [скрипт]() Python для брутфорса ROT1 вплоть до расшифровки ROT25 для заданной строки. Мы 
+сохранили это в 
+rot1_25-bruteforce.py .
 
-# Это скрипт ротации методом перебора ROT1 в ROT25. 
-# Вы вводите зашифрованный текст, и скрипт выведет все потенциальные выходные данные в каждой схеме ROT 
-
-def  rot_decode ( cipher_text ): 
-    # Перебрать все возможные значения ROT (от 1 до 25) 
-    for rot in  range ( 1 , 26 ): 
-        decoded_text = "" 
-        # Перебрать каждый символ в зашифрованном тексте 
-        for c in cipher_text: 
-            # Проверить, является ли символ буквой 
-            if c.isalpha(): 
-                # Определить смещение ASCII на основе того, является ли буква заглавной или строчной 
-                if c.isupper(): 
-                    ascii_offset = 65 
-                else : 
-                    ascii_offset = 97 
-                # Преобразовать символ в его код ASCII
-                 c_code = ord (c) 
-                # Определить новый код ASCII, применив значение ROT
-                 new_c_code = (c_code - ascii_offset + rot) % 26 + ascii_offset 
-                # Преобразовать новый код ASCII обратно в символ
-                 new_c = chr (new_c_code) 
-                decoded_text += new_c 
-            else : 
-                # Если символ не является буквой, добавить его к декодированному тексту как есть
-                 decoded_text += c 
-        # Вывести декодированный текст для текущего значения ROT 
-        print ( f"ROT {rot:02d}    : {decoded_text} " ) 
-
-
-# Запросить у пользователя ввод
- cipher_text = input ( "Введите зашифрованный текст: " ) 
-rot_decode(cipher_text)
 Запуск скрипта выше должен содержать флаг в одном из оборотов.
 
 ```commandline
