@@ -122,7 +122,7 @@
 - [Wgel CTF](https://github.com/BEPb/tryhackme/blob/master/01.easy/Wgel%20CTF.md)
 - [Brute It](https://github.com/BEPb/tryhackme/blob/master/01.easy/Brute%20It.md)
 - [Unified Kill Chain](https://github.com/BEPb/tryhackme/blob/master/01.easy/Unified%20Kill%20Chain.md)
-- [Wifi Hacking 101]()
+- [Wifi Hacking 101](https://github.com/BEPb/tryhackme/blob/master/01.easy/Wifi%20Hacking%20101.md)
 - []()
 - []()
 - []()
