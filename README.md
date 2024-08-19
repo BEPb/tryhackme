@@ -123,7 +123,7 @@
 - [Brute It](https://github.com/BEPb/tryhackme/blob/master/01.easy/Brute%20It.md)
 - [Unified Kill Chain](https://github.com/BEPb/tryhackme/blob/master/01.easy/Unified%20Kill%20Chain.md)
 - [Wifi Hacking 101](https://github.com/BEPb/tryhackme/blob/master/01.easy/Wifi%20Hacking%20101.md)
-- [Year of the Rabbit]()
+- [Year of the Rabbit](https://github.com/BEPb/tryhackme/blob/master/01.easy/Year%20of%20the%20Rabbit.md)
 - []()
 - []()
 - []()
