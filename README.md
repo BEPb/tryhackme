@@ -121,7 +121,7 @@
 - [Threat Intelligence Tools](https://github.com/BEPb/tryhackme/blob/master/01.easy/Threat%20Intelligence%20Tools.md)
 - [Wgel CTF](https://github.com/BEPb/tryhackme/blob/master/01.easy/Wgel%20CTF.md)
 - [Brute It](https://github.com/BEPb/tryhackme/blob/master/01.easy/Brute%20It.md)
-- [Unified Kill Chain]()
+- [Unified Kill Chain](https://github.com/BEPb/tryhackme/blob/master/01.easy/Unified%20Kill%20Chain.md)
 - []()
 - []()
 - []()
