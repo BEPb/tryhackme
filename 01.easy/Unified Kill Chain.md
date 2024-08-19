@@ -2,7 +2,7 @@
 
 # Комната [Unified Kill Chain](https://tryhackme.com/r/room/unifiedkillchain) 
 
-Всего 5 заданий:
+Всего 9 заданий:
 ## Задание 1
 
 ```commandline
@@ -28,6 +28,30 @@
 ```
 
 ## Задание 5
+
+```commandline
+Ответ не нужен
+```
+
+## Задание 6
+
+```commandline
+Ответ не нужен
+```
+
+## Задание 7
+
+```commandline
+Ответ не нужен
+```
+
+## Задание 8
+
+```commandline
+Ответ не нужен
+```
+
+## Задание 9
 
 ```commandline
 Ответ не нужен
