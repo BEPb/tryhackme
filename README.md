@@ -120,7 +120,7 @@
 - [Security Engineer Intro](https://github.com/BEPb/tryhackme/blob/master/01.easy/Security%20Engineer%20Intro.md)
 - [Threat Intelligence Tools](https://github.com/BEPb/tryhackme/blob/master/01.easy/Threat%20Intelligence%20Tools.md)
 - [Wgel CTF](https://github.com/BEPb/tryhackme/blob/master/01.easy/Wgel%20CTF.md)
-- []()
+- [Brute It]()
 - []()
 - []()
 - []()
