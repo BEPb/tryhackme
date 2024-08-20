@@ -137,7 +137,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Lian_Yu](https://github.com/BEPb/tryhackme/blob/master/01.easy/Lian_Yu.md)
 - [Chill Hack](https://github.com/BEPb/tryhackme/blob/master/01.easy/Chill%20Hack.md)
 - [Introduction to SIEM](https://github.com/BEPb/tryhackme/blob/master/01.easy/Introduction%20to%20SIEM.md)
-- [Blaster]()
+- [Blaster](https://github.com/BEPb/tryhackme/blob/master/01.easy/Blaster.md)
 - []()
 - []()
 - []()
