@@ -135,7 +135,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [h4cked](https://github.com/BEPb/tryhackme/blob/master/01.easy/h4cked.md)
 - [tmux](https://github.com/BEPb/tryhackme/blob/master/01.easy/tmux.md)
 - [Lian_Yu](https://github.com/BEPb/tryhackme/blob/master/01.easy/Lian_Yu.md)
-- []()
+- [Chill Hack]()
 - []()
 - []()
 - []()
