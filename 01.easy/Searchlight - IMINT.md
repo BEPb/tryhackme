@@ -2,7 +2,7 @@
 
 [>> вернуться на главную страницу](https://github.com/BEPb/tryhackme/blob/master/README.md)
 
-# Комната [Searchlight - IMINT]() 
+# Комната [Searchlight - IMINT](https://tryhackme.com/r/room/searchlightosint) 
 
 Всего 9 заданий:
 ## Задание 1
