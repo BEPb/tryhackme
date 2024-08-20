@@ -138,7 +138,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Chill Hack](https://github.com/BEPb/tryhackme/blob/master/01.easy/Chill%20Hack.md)
 - [Introduction to SIEM](https://github.com/BEPb/tryhackme/blob/master/01.easy/Introduction%20to%20SIEM.md)
 - [Blaster](https://github.com/BEPb/tryhackme/blob/master/01.easy/Blaster.md)
-- [Security Principles]()
+- [Security Principles](https://github.com/BEPb/tryhackme/blob/master/01.easy/Security%20Principles.md)
 - []()
 - []()
 - []()
