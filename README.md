@@ -134,7 +134,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [CTF collection Vol.2](https://github.com/BEPb/tryhackme/blob/master/01.easy/CTF%20collection%20Vol2/CTF%20collection%20Vol.2.md)
 - [h4cked](https://github.com/BEPb/tryhackme/blob/master/01.easy/h4cked.md)
 - [tmux](https://github.com/BEPb/tryhackme/blob/master/01.easy/tmux.md)
-- [Lian_Yu]()
+- [Lian_Yu](https://github.com/BEPb/tryhackme/blob/master/01.easy/Lian_Yu.md)
 - []()
 - []()
 - []()
