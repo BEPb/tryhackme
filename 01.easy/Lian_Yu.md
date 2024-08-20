@@ -14,13 +14,6 @@
 Какой веб-каталог вы нашли?
 ```commandline
 nmap -sC -sV 10.10.228.22 
-
-Ports found ---
-port 21/tcp - FTP - (vsftpd 3.0.2)
-port 22/tcp - SSH - (OpenSSH 6.7p1)
-port 80/tcp - HTTP - (Apache httpd)
-port 111/tcp - RPC - (rpcbind)
-
 gobuster dir -u http://10.10.228.22/ -w/usr/share/wordlists/dirbuster/directory-list-lowercase-2.3-medium.txt
 # http://10.10.228.22/island
 # Code Word -  'vigilante' - (this is our FTP username)
