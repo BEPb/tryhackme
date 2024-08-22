@@ -142,7 +142,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Searchlight - IMINT](https://github.com/BEPb/tryhackme/blob/master/01.easy/Security%20Principles.md)
 - [Bolt](https://github.com/BEPb/tryhackme/blob/master/01.easy/Bolt.md)
 - [Cryptography for Dummies](https://github.com/BEPb/tryhackme/blob/master/01.easy/Cryptography%20for%20Dummies.md)
-- [Introduction to Django]()
+- [Introduction to Django](https://github.com/BEPb/tryhackme/blob/master/01.easy/Introduction%20to%20Django.md)
 - []()
 - []()
 - []()
