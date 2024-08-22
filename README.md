@@ -141,7 +141,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Security Principles](https://github.com/BEPb/tryhackme/blob/master/01.easy/Security%20Principles.md)
 - [Searchlight - IMINT](https://github.com/BEPb/tryhackme/blob/master/01.easy/Security%20Principles.md)
 - [Bolt](https://github.com/BEPb/tryhackme/blob/master/01.easy/Bolt.md)
-- []()
+- [Cryptography for Dummies]()
 - []()
 - []()
 - []()
