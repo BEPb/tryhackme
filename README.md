@@ -148,7 +148,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Welcome](https://github.com/BEPb/tryhackme/blob/master/01.easy/Welcome.md)
 - [The Cod Caper](https://github.com/BEPb/tryhackme/blob/master/01.easy/The%20Cod%20Caper.md)
 - [Source](https://github.com/BEPb/tryhackme/blob/master/01.easy/Source.md)
-- [Fowsniff CTF]()
+- [Fowsniff CTF](https://github.com/BEPb/tryhackme/blob/master/01.easy/Fowsniff%20CTF.md)
 - []()
 - []()
 - []()
