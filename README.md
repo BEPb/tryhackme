@@ -144,7 +144,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Cryptography for Dummies](https://github.com/BEPb/tryhackme/blob/master/01.easy/Cryptography%20for%20Dummies.md)
 - [Introduction to Django](https://github.com/BEPb/tryhackme/blob/master/01.easy/Introduction%20to%20Django.md)
 - [GamingServer](https://github.com/BEPb/tryhackme/blob/master/01.easy/GamingServer.md)
-- [Chocolate Factory]()
+- [Chocolate Factory](https://github.com/BEPb/tryhackme/blob/master/01.easy/Chocolate%20Factory.md)
 - []()
 - []()
 - []()
