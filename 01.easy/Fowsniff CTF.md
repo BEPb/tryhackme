@@ -178,7 +178,6 @@ cd /root
 ls -la
 cat flag.txt
 ```
-
 ```commandline
 Ответ не нужен
 ```
