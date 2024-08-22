@@ -147,7 +147,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Chocolate Factory](https://github.com/BEPb/tryhackme/blob/master/01.easy/Chocolate%20Factory.md)
 - [Welcome](https://github.com/BEPb/tryhackme/blob/master/01.easy/Welcome.md)
 - [The Cod Caper](https://github.com/BEPb/tryhackme/blob/master/01.easy/The%20Cod%20Caper.md)
-- [Source]()
+- [Source](https://github.com/BEPb/tryhackme/blob/master/01.easy/Source.md)
 - []()
 - []()
 - []()

