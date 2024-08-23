@@ -156,7 +156,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Traffic Analysis Essentials](https://github.com/BEPb/tryhackme/blob/master/01.easy/Traffic%20Analysis%20Essentials.md)
 - [Governance & Regulation](https://github.com/BEPb/tryhackme/blob/master/01.easy/Governance%20%26%20Regulation.md)
 - [Intro to Endpoint Security](https://github.com/BEPb/tryhackme/blob/master/01.easy/Intro%20to%20Endpoint%20Security.md)
-- [The Hacker Methodology]()
+- [The Hacker Methodology](https://github.com/BEPb/tryhackme/blob/master/01.easy/The%20Hacker%20Methodology.md)
 - []()
 - []()
 - []()
