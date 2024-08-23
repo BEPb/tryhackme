@@ -161,7 +161,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [OpenVAS](https://github.com/BEPb/tryhackme/blob/master/01.easy/OpenVAS.md)
 - [Sakura Room](https://github.com/BEPb/tryhackme/blob/master/01.easy/Sakura%20Room.md)
 - [Linux Modules](https://github.com/BEPb/tryhackme/blob/master/01.easy/Linux%20Modules.md)
-- []()
+- [WebOSINT]()
 - []()
 - []()
 - []()
