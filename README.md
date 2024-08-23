@@ -163,7 +163,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Linux Modules](https://github.com/BEPb/tryhackme/blob/master/01.easy/Linux%20Modules.md)
 - [WebOSINT](https://github.com/BEPb/tryhackme/blob/master/01.easy/WebOSINT.md)
 - [Reversing ELF](https://github.com/BEPb/tryhackme/blob/master/01.easy/Reversing%20ELF.md)
-- [Archangel]()
+- [Archangel](https://github.com/BEPb/tryhackme/blob/master/01.easy/Archangel.md)
 - []()
 - []()
 - []()
