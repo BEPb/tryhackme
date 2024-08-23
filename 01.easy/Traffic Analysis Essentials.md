@@ -1,6 +1,6 @@
 [>> вернуться на главную страницу](https://github.com/BEPb/tryhackme/blob/master/README.md)
 
-# Комната [Traffic Analysis Essentials]() 
+# Комната [Traffic Analysis Essentials](https://tryhackme.com/r/room/trafficanalysisessentials) 
 
 Всего 4 задания:
 ## Задание 1
