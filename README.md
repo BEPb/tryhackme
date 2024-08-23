@@ -154,7 +154,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Phishing Emails in Action](https://github.com/BEPb/tryhackme/blob/master/01.easy/Phishing%20Emails%20in%20Action.md)
 - [Easy Peasy](https://github.com/BEPb/tryhackme/blob/master/01.easy/Easy%20Peasy.md)
 - [Traffic Analysis Essentials](https://github.com/BEPb/tryhackme/blob/master/01.easy/Traffic%20Analysis%20Essentials.md)
-- [Governance & Regulation]()
+- [Governance & Regulation](https://github.com/BEPb/tryhackme/blob/master/01.easy/Governance%20%26%20Regulation.md)
 - []()
 - []()
 - []()
