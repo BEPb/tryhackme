@@ -158,7 +158,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Intro to Endpoint Security](https://github.com/BEPb/tryhackme/blob/master/01.easy/Intro%20to%20Endpoint%20Security.md)
 - [The Hacker Methodology](https://github.com/BEPb/tryhackme/blob/master/01.easy/The%20Hacker%20Methodology.md)
 - [Intro to Containerisation](https://github.com/BEPb/tryhackme/blob/master/01.easy/Intro%20to%20Containerisation.md)
-- []()
+- [OpenVAS]()
 - []()
 - []()
 - []()
