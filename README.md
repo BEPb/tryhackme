@@ -160,7 +160,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Intro to Containerisation](https://github.com/BEPb/tryhackme/blob/master/01.easy/Intro%20to%20Containerisation.md)
 - [OpenVAS](https://github.com/BEPb/tryhackme/blob/master/01.easy/OpenVAS.md)
 - [Sakura Room](https://github.com/BEPb/tryhackme/blob/master/01.easy/Sakura%20Room.md)
-- [Linux Modules]()
+- [Linux Modules](https://github.com/BEPb/tryhackme/blob/master/01.easy/Linux%20Modules.md)
 - []()
 - []()
 - []()
