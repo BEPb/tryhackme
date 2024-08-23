@@ -152,7 +152,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [DFIR: An Introduction](https://github.com/BEPb/tryhackme/blob/master/01.easy/DFIR%20An%20Introduction.md)
 - [Introduction to OWASP ZAP](https://github.com/BEPb/tryhackme/blob/master/01.easy/Introduction%20to%20OWASP%20ZAP.md)
 - [Phishing Emails in Action](https://github.com/BEPb/tryhackme/blob/master/01.easy/Phishing%20Emails%20in%20Action.md)
-- [Easy Peasy]()
+- [Easy Peasy](https://github.com/BEPb/tryhackme/blob/master/01.easy/Easy%20Peasy.md)
 - []()
 - []()
 - []()
