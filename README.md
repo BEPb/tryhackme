@@ -153,7 +153,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Introduction to OWASP ZAP](https://github.com/BEPb/tryhackme/blob/master/01.easy/Introduction%20to%20OWASP%20ZAP.md)
 - [Phishing Emails in Action](https://github.com/BEPb/tryhackme/blob/master/01.easy/Phishing%20Emails%20in%20Action.md)
 - [Easy Peasy](https://github.com/BEPb/tryhackme/blob/master/01.easy/Easy%20Peasy.md)
-- [Traffic Analysis Essentials]()
+- [Traffic Analysis Essentials](https://github.com/BEPb/tryhackme/blob/master/01.easy/Traffic%20Analysis%20Essentials.md)
 - []()
 - []()
 - []()
