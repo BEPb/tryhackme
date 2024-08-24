@@ -166,7 +166,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Archangel](https://github.com/BEPb/tryhackme/blob/master/01.easy/Archangel.md)
 - [ffuf](https://github.com/BEPb/tryhackme/blob/master/01.easy/ffuf.md)
 - [ColddBox: Easy](https://github.com/BEPb/tryhackme/blob/master/01.easy/ColddBox%20Easy.md)
-- [Tor]()
+- [Tor](https://github.com/BEPb/tryhackme/blob/master/01.easy/Tor.md)
 - []()
 - []()
 - []()
