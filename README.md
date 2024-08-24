@@ -175,7 +175,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Geolocating Images](https://github.com/BEPb/tryhackme/blob/master/01.easy/Geolocating%20Images.md)
 - [Intro to Docker](https://github.com/BEPb/tryhackme/blob/master/01.easy/Intro%20to%20Docker.md)
 - [Mustacchio](https://github.com/BEPb/tryhackme/blob/master/01.easy/Mustacchio.md)
-- []()
+- [Blueprint]()
 - []()
 - []()
 - []()
