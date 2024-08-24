@@ -167,7 +167,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [ffuf](https://github.com/BEPb/tryhackme/blob/master/01.easy/ffuf.md)
 - [ColddBox: Easy](https://github.com/BEPb/tryhackme/blob/master/01.easy/ColddBox%20Easy.md)
 - [Tor](https://github.com/BEPb/tryhackme/blob/master/01.easy/Tor.md)
-- []()
+- [Shodan.io]()
 - []()
 - []()
 - []()
