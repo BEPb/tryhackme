@@ -180,7 +180,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Corridor](https://github.com/BEPb/tryhackme/blob/master/01.easy/Corridor.md)
 - [Identity and Access Management](https://github.com/BEPb/tryhackme/blob/master/01.easy/Identity%20and%20Access%20Management.md)
 - [Smag Grotto](https://github.com/BEPb/tryhackme/blob/master/01.easy/Smag%20Grotto.md)
-- [Tech_Supp0rt: 1]()
+- [Tech_Supp0rt: 1](https://github.com/BEPb/tryhackme/blob/master/01.easy/Tech_Supp0rt%201.md)
 - []()
 - []()
 - []()
