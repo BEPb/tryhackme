@@ -33,6 +33,7 @@ cat user.txt
 ```commandline
 iusGorV7EbmxM5AuIe2w499msaSuqU3j
 ```
+
 Что такое корневой флаг?
 ```commandline
 sudo -l
