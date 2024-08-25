@@ -186,7 +186,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Introduction to Windows API](https://github.com/BEPb/tryhackme/blob/master/01.easy/Introduction%20to%20Windows%20API.md)
 - [Ninja Skills](https://github.com/BEPb/tryhackme/blob/master/01.easy/Ninja%20Skills.md)
 - [Gallery](https://github.com/BEPb/tryhackme/blob/master/01.easy/Gallery.md)
-- []()
+- [kiba]()
 - []()
 - []()
 - []()
