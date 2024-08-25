@@ -179,7 +179,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Introduction to Antivirus](https://github.com/BEPb/tryhackme/blob/master/01.easy/Introduction%20to%20Antivirus.md)
 - [Corridor](https://github.com/BEPb/tryhackme/blob/master/01.easy/Corridor.md)
 - [Identity and Access Management](https://github.com/BEPb/tryhackme/blob/master/01.easy/Identity%20and%20Access%20Management.md)
-- [Smag Grotto]()
+- [Smag Grotto](https://github.com/BEPb/tryhackme/blob/master/01.easy/Smag%20Grotto.md)
 - []()
 - []()
 - []()
