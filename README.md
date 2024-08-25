@@ -185,7 +185,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Juicy Details](https://github.com/BEPb/tryhackme/blob/master/01.easy/Juicy%20Details.md)
 - [Introduction to Windows API](https://github.com/BEPb/tryhackme/blob/master/01.easy/Introduction%20to%20Windows%20API.md)
 - [Ninja Skills](https://github.com/BEPb/tryhackme/blob/master/01.easy/Ninja%20Skills.md)
-- [Gallery]()
+- [Gallery](https://github.com/BEPb/tryhackme/blob/master/01.easy/Gallery.md)
 - []()
 - []()
 - []()
