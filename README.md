@@ -187,7 +187,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Ninja Skills](https://github.com/BEPb/tryhackme/blob/master/01.easy/Ninja%20Skills.md)
 - [Gallery](https://github.com/BEPb/tryhackme/blob/master/01.easy/Gallery.md)
 - [kiba](https://github.com/BEPb/tryhackme/blob/master/01.easy/kiba.md)
-- [Team]()
+- [Team](https://github.com/BEPb/tryhackme/blob/master/01.easy/Team.md)
 - []()
 - []()
 - []()
