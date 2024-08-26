@@ -199,7 +199,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Gotta Catch'em All!](https://github.com/BEPb/tryhackme/blob/master/01.easy/Gotta%20Catch'em%20All!.md)
 - [Madness](https://github.com/BEPb/tryhackme/blob/master/01.easy/Madness/Madness.md)
 - [Jack-of-All-Trades](https://github.com/BEPb/tryhackme/blob/master/01.easy/Jack-of-All-Trades.md)
-- []()
+- [Printer Hacking 101]()
 - []()
 - []()
 - []()
