@@ -195,7 +195,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [VulnNet: Internal](https://github.com/BEPb/tryhackme/blob/master/01.easy/VulnNet%20Internal.md)
 - [Badbyte](https://github.com/BEPb/tryhackme/blob/master/01.easy/Badbyte.md)
 - [x86 Architecture Overview](https://github.com/BEPb/tryhackme/blob/master/01.easy/x86%20Architecture%20Overview.md)
-- [Anonforce]()
+- [Anonforce](https://github.com/BEPb/tryhackme/blob/master/01.easy/Anonforce.md)
 - []()
 - []()
 - []()
