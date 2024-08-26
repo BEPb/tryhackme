@@ -196,7 +196,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Badbyte](https://github.com/BEPb/tryhackme/blob/master/01.easy/Badbyte.md)
 - [x86 Architecture Overview](https://github.com/BEPb/tryhackme/blob/master/01.easy/x86%20Architecture%20Overview.md)
 - [Anonforce](https://github.com/BEPb/tryhackme/blob/master/01.easy/Anonforce.md)
-- []()
+- [Gotta Catch'em All!]()
 - []()
 - []()
 - []()
