@@ -209,7 +209,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Valley](https://github.com/BEPb/tryhackme/blob/master/01.easy/Valley.md)
 - [Library](https://github.com/BEPb/tryhackme/blob/master/01.easy/Library.md)
 - [Break Out The Cage](https://github.com/BEPb/tryhackme/blob/master/01.easy/Break%20Out%20The%20Cage.md)
-- [Psycho Break]()
+- [Psycho Break](https://github.com/BEPb/tryhackme/blob/master/01.easy/Psycho%20Break.md)
 - []()
 - []()
 - []()
