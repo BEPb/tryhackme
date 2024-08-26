@@ -188,7 +188,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Gallery](https://github.com/BEPb/tryhackme/blob/master/01.easy/Gallery.md)
 - [kiba](https://github.com/BEPb/tryhackme/blob/master/01.easy/kiba.md)
 - [Team](https://github.com/BEPb/tryhackme/blob/master/01.easy/Team.md)
-- []()
+- [Intro to Logs]()
 - []()
 - []()
 - []()
