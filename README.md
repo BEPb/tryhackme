@@ -205,7 +205,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Intro to Pipeline Automation](https://github.com/BEPb/tryhackme/blob/master/01.easy/Intro%20to%20Pipeline%20Automation.md)
 - [Poster](https://github.com/BEPb/tryhackme/blob/master/01.easy/Poster.md)
 - [Thompson](https://github.com/BEPb/tryhackme/blob/master/01.easy/Thompson.md)
-- [Opacity]()
+- [Opacity](https://github.com/BEPb/tryhackme/blob/master/01.easy/Opacity.md)
 - []()
 - []()
 - []()

