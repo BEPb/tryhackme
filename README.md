@@ -190,7 +190,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Team](https://github.com/BEPb/tryhackme/blob/master/01.easy/Team.md)
 - [Intro to Logs](https://github.com/BEPb/tryhackme/blob/master/01.easy/Intro%20to%20Logs.md)
 - [All in One](https://github.com/BEPb/tryhackme/blob/master/01.easy/All%20in%20One.md)
-- [Getting Started]()
+- [Getting Started](https://github.com/BEPb/tryhackme/blob/master/01.easy/Getting%20Started.md)
 - []()
 - []()
 - []()
