@@ -198,7 +198,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Anonforce](https://github.com/BEPb/tryhackme/blob/master/01.easy/Anonforce.md)
 - [Gotta Catch'em All!](https://github.com/BEPb/tryhackme/blob/master/01.easy/Gotta%20Catch'em%20All!.md)
 - [Madness](https://github.com/BEPb/tryhackme/blob/master/01.easy/Madness/Madness.md)
-- []()
+- [Jack-of-All-Trades]()
 - []()
 - []()
 - []()
