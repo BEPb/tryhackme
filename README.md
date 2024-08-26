@@ -216,7 +216,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Outlook NTLM Leak](https://github.com/BEPb/tryhackme/blob/master/01.easy/Outlook%20NTLM%20Leak.md)
 - [Dav](https://github.com/BEPb/tryhackme/blob/master/01.easy/Dav.md)
 - [Couch]()
-- []()
+- [Plotted-TMS]()
 - []()
 - []()
 - []()
