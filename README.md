@@ -193,7 +193,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Getting Started](https://github.com/BEPb/tryhackme/blob/master/01.easy/Getting%20Started.md)
 - [Empire](https://github.com/BEPb/tryhackme/blob/master/01.easy/Empire.md)
 - [VulnNet: Internal](https://github.com/BEPb/tryhackme/blob/master/01.easy/VulnNet%20Internal.md)
-- []()
+- [Badbyte]()
 - []()
 - []()
 - []()
