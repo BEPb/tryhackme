@@ -197,7 +197,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [x86 Architecture Overview](https://github.com/BEPb/tryhackme/blob/master/01.easy/x86%20Architecture%20Overview.md)
 - [Anonforce](https://github.com/BEPb/tryhackme/blob/master/01.easy/Anonforce.md)
 - [Gotta Catch'em All!](https://github.com/BEPb/tryhackme/blob/master/01.easy/Gotta%20Catch'em%20All!.md)
-- [Madness]()
+- [Madness](https://github.com/BEPb/tryhackme/blob/master/01.easy/Madness/Madness.md)
 - []()
 - []()
 - []()
