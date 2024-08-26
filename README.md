@@ -204,7 +204,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [VulnNet: Roasted](https://github.com/BEPb/tryhackme/blob/master/01.easy/VulnNet%20Roasted.md)
 - [Intro to Pipeline Automation](https://github.com/BEPb/tryhackme/blob/master/01.easy/Intro%20to%20Pipeline%20Automation.md)
 - [Poster](https://github.com/BEPb/tryhackme/blob/master/01.easy/Poster.md)
-- [Thompson]()
+- [Thompson](https://github.com/BEPb/tryhackme/blob/master/01.easy/Thompson.md)
 - []()
 - []()
 - []()
