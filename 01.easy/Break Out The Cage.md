@@ -2,37 +2,24 @@
 
 [>> вернуться на главную страницу](https://github.com/BEPb/tryhackme/blob/master/README.md)
 
-# Комната [Break Out The Cage]() 
+# Комната [Break Out The Cage](https://tryhackme.com/r/room/breakoutthecage1) 
 
-Всего 5 заданий:
+Всего 1 заданиe:
 ## Задание 1
+Давайте узнаем, чем занимается его агент...
 
+### Ответьте на вопросы ниже
+Какой пароль у Уэстона?
 ```commandline
-Ответ не нужен
+Mydadisghostrideraintthatcoolnocausehesonfirejokes
 ```
-
-## Задание 2
-
+Что такое флаг пользователя?
 ```commandline
-Ответ не нужен
+THM{M37AL_0R_P3N_T35T1NG}
 ```
-
-## Задание 3
-
+Что такое корневой флаг?
 ```commandline
-Ответ не нужен
-```
-
-## Задание 4
-
-```commandline
-Ответ не нужен
-```
-
-## Задание 5
-
-```commandline
-Ответ не нужен
+THM{8R1NG_D0WN_7H3_C493_L0N9_L1V3_M3}
 ```
 
 [>> вернуться на главную страницу](https://github.com/BEPb/tryhackme/blob/master/README.md)
