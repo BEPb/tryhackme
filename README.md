@@ -227,7 +227,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Wordpress: CVE-2021-29447](https://github.com/BEPb/tryhackme/blob/master/01.easy/Wordpress%20CVE-2021-29447.md)
 - [Flatline](https://github.com/BEPb/tryhackme/blob/master/01.easy/Flatline.md)
 - [Hacker vs. Hacker](https://github.com/BEPb/tryhackme/blob/master/01.easy/Hacker%20vs.%20Hacker.md)
-- [Threat Hunting: Introduction]()
+- [Threat Hunting: Introduction](https://github.com/BEPb/tryhackme/blob/master/01.easy/Threat%20Hunting%20Introduction.md)
 - []()
 - []()
 - []()
