@@ -1,36 +1,20 @@
 [>> вернуться на главную страницу](https://github.com/BEPb/tryhackme/blob/master/README.md)
 
-# Комната [JPGChat]() 
+# Комната [JPGChat](https://tryhackme.com/r/room/jpgchat) 
 
-Всего 5 заданий:
+Всего 1 заданий:
 ## Задание 1
+Взломайте машину и заберите флаг.
 
+### Ответьте на вопросы ниже
+Создайте точку опоры и получите user.txt
 ```commandline
-Ответ не нужен
+JPC{487030410a543503cbb59ece16178318}
 ```
 
-## Задание 2
-
+Повысьте свои привилегии до root и прочитайте root.txt
 ```commandline
-Ответ не нужен
-```
-
-## Задание 3
-
-```commandline
-Ответ не нужен
-```
-
-## Задание 4
-
-```commandline
-Ответ не нужен
-```
-
-## Задание 5
-
-```commandline
-Ответ не нужен
+JPC{665b7f2e59cf44763e5a7f070b081b0a}
 ```
 
 [>> вернуться на главную страницу](https://github.com/BEPb/tryhackme/blob/master/README.md)

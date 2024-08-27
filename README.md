@@ -231,7 +231,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [TakeOver](https://github.com/BEPb/tryhackme/blob/master/01.easy/TakeOver.md)
 - [b3dr0ck](https://github.com/BEPb/tryhackme/blob/master/01.easy/b3dr0ck.md)
 - [Lesson Learned?](https://github.com/BEPb/tryhackme/blob/master/01.easy/Lesson%20Learned.md)
-- [Memory Forensics]()
+- [Memory Forensics](https://github.com/BEPb/tryhackme/blob/master/01.easy/Memory%20Forensics.md)
 - [JPGChat]()
 - []()
 - []()
