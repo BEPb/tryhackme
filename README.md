@@ -229,7 +229,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Hacker vs. Hacker](https://github.com/BEPb/tryhackme/blob/master/01.easy/Hacker%20vs.%20Hacker.md)
 - [Threat Hunting: Introduction](https://github.com/BEPb/tryhackme/blob/master/01.easy/Threat%20Hunting%20Introduction.md)
 - [TakeOver](https://github.com/BEPb/tryhackme/blob/master/01.easy/TakeOver.md)
-- [b3dr0ck]()
+- [b3dr0ck](https://github.com/BEPb/tryhackme/blob/master/01.easy/b3dr0ck.md)
 - []()
 - []()
 - []()
