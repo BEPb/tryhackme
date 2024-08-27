@@ -17,6 +17,11 @@
 ### Ответьте на вопросы ниже
 Какой флаг?
 ```commandline
+nmap -sV -sC <IP>
+http://<IP>
+' AND '1'='1' -- -
+```
+```commandline
 THM{aab02c6b76bb752456a54c80c2d6fb1e}
 ```
 
