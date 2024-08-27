@@ -217,7 +217,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Dav](https://github.com/BEPb/tryhackme/blob/master/01.easy/Dav.md)
 - [Couch](https://github.com/BEPb/tryhackme/blob/master/01.easy/Couch.md)
 - [Plotted-TMS](https://github.com/BEPb/tryhackme/blob/master/01.easy/Plotted-TMS.md)
-- []()
+- [GLITCH]()
 - []()
 - []()
 - []()
