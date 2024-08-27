@@ -240,7 +240,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [OWASP Broken Access Control](https://github.com/BEPb/tryhackme/blob/master/01.easy/OWASP%20Broken%20Access%20Control.md)
 - [Jax sucks alot.............](https://github.com/BEPb/tryhackme/blob/master/01.easy/Jax%20sucks%20alot..............md)
 - [Physical Security Intro](https://github.com/BEPb/tryhackme/blob/master/01.easy/Physical%20Security%20Intro.md)
-- [Attacking ICS Plant #1]()
+- [Attacking ICS Plant #1](https://github.com/BEPb/tryhackme/blob/master/01.easy/Attacking%20ICS%20Plant%20%231.md)
 - []()
 - []()
 - []()
