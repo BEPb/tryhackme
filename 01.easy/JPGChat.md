@@ -9,6 +9,10 @@
 ### Ответьте на вопросы ниже
 Создайте точку опоры и получите user.txt
 ```commandline
+nmap -sC -sV <IP>
+nc <IP> 3000
+```
+```commandline
 JPC{487030410a543503cbb59ece16178318}
 ```
 
