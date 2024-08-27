@@ -232,7 +232,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [b3dr0ck](https://github.com/BEPb/tryhackme/blob/master/01.easy/b3dr0ck.md)
 - [Lesson Learned?](https://github.com/BEPb/tryhackme/blob/master/01.easy/Lesson%20Learned.md)
 - [Memory Forensics]()
-- []()
+- [JPGChat]()
 - []()
 - []()
 - []()
