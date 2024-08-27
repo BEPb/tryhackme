@@ -226,7 +226,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Digital Forensics Case B4DM755](https://github.com/BEPb/tryhackme/blob/master/01.easy/Digital%20Forensics%20Case%20B4DM755.md)
 - [Wordpress: CVE-2021-29447](https://github.com/BEPb/tryhackme/blob/master/01.easy/Wordpress%20CVE-2021-29447.md)
 - [Flatline](https://github.com/BEPb/tryhackme/blob/master/01.easy/Flatline.md)
-- [Hacker vs. Hacker]()
+- [Hacker vs. Hacker](https://github.com/BEPb/tryhackme/blob/master/01.easy/Hacker%20vs.%20Hacker.md)
 - []()
 - []()
 - []()
