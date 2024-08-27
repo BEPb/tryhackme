@@ -233,7 +233,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Lesson Learned?](https://github.com/BEPb/tryhackme/blob/master/01.easy/Lesson%20Learned.md)
 - [Memory Forensics](https://github.com/BEPb/tryhackme/blob/master/01.easy/Memory%20Forensics.md)
 - [JPGChat](https://github.com/BEPb/tryhackme/blob/master/01.easy/JPGChat.md)
-- []()
+- [Tony the Tiger]()
 - []()
 - []()
 - []()
