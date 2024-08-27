@@ -224,7 +224,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Dreaming](https://github.com/BEPb/tryhackme/blob/master/01.easy/Dreaming.md)
 - [Cat Pictures](https://github.com/BEPb/tryhackme/blob/master/01.easy/Cat%20Pictures.md)
 - [Digital Forensics Case B4DM755](https://github.com/BEPb/tryhackme/blob/master/01.easy/Digital%20Forensics%20Case%20B4DM755.md)
-- []()
+- [Wordpress: CVE-2021-29447]()
 - []()
 - []()
 - []()
