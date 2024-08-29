@@ -247,7 +247,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Atlassian CVE-2022-26134](https://github.com/BEPb/tryhackme/blob/master/01.easy/Atlassian%20CVE-2022-26134.md)
 - [Bugged](https://github.com/BEPb/tryhackme/blob/master/01.easy/Bugged.md)
 - [Intro to Log Analysis](https://github.com/BEPb/tryhackme/blob/master/01.easy/Intro%20to%20Log%20Analysis.md)
-- []()
+- [Publisher]()
 - []()
 - []()
 - []()
