@@ -248,7 +248,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Bugged](https://github.com/BEPb/tryhackme/blob/master/01.easy/Bugged.md)
 - [Intro to Log Analysis](https://github.com/BEPb/tryhackme/blob/master/01.easy/Intro%20to%20Log%20Analysis.md)
 - [Publisher](https://github.com/BEPb/tryhackme/blob/master/01.easy/Publisher.md)
-- []()
+- [Cat Pictures 2]()
 - []()
 - []()
 - []()
