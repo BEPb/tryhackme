@@ -257,7 +257,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [KoTH Food CTF](https://github.com/BEPb/tryhackme/blob/master/01.easy/KoTH%20Food%20CTF.md)
 - [0x41haz](https://github.com/BEPb/tryhackme/blob/master/01.easy/0x41haz.md)
 - [TryHack3M: Bricks Heist](https://github.com/BEPb/tryhackme/blob/master/01.easy/TryHack3M%20Bricks%20Heist.md)
-- [Hijack]()
+- [Hijack](https://github.com/BEPb/tryhackme/blob/master/01.easy/Hijack.md)
 - []()
 - []()
 - []()
