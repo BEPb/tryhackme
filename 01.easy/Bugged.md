@@ -1,6 +1,6 @@
 [>> вернуться на главную страницу](https://github.com/BEPb/tryhackme/blob/master/README.md)
 
-# Комната [Bugged](https://tryhackme.com/r/room/bugged) 
+# Комната [Bugged](https://tryhackme.com/r/room/bugged)
 
 Всего 1 заданиe:
 ## Задание 1
@@ -13,6 +13,5 @@
 ```commandline
 flag{18d44fc0707ac8dc8be45bb83db54013}
 ```
-
 
 [>> вернуться на главную страницу](https://github.com/BEPb/tryhackme/blob/master/README.md)
