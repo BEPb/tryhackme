@@ -251,7 +251,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Cat Pictures 2](https://github.com/BEPb/tryhackme/blob/master/01.easy/Cat%20Pictures%202.md)
 - [ParrotPost: Phishing Analysis](https://github.com/BEPb/tryhackme/blob/master/01.easy/ParrotPost%20Phishing%20Analysis.md)
 - [Jupyter 101](https://github.com/BEPb/tryhackme/blob/master/01.easy/Jupyter%20101.md)
-- [CyberLens]()
+- [CyberLens](https://github.com/BEPb/tryhackme/blob/master/01.easy/CyberLens.md)
 - []()
 - []()
 - []()
