@@ -243,7 +243,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Attacking ICS Plant #1](https://github.com/BEPb/tryhackme/blob/master/01.easy/Attacking%20ICS%20Plant%20%231.md)
 - [magician](https://github.com/BEPb/tryhackme/blob/master/01.easy/magician.md)
 - [VulnNet: Node](https://github.com/BEPb/tryhackme/blob/master/01.easy/VulnNet%20Node.md)
-- []()
+- [Creative]()
 - []()
 - []()
 - []()
