@@ -258,7 +258,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [0x41haz](https://github.com/BEPb/tryhackme/blob/master/01.easy/0x41haz.md)
 - [TryHack3M: Bricks Heist](https://github.com/BEPb/tryhackme/blob/master/01.easy/TryHack3M%20Bricks%20Heist.md)
 - [Hijack](https://github.com/BEPb/tryhackme/blob/master/01.easy/Hijack.md)
-- []()
+- [Red]()
 - []()
 - []()
 - []()
