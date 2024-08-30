@@ -269,8 +269,10 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Registry Persistence Detection](https://github.com/BEPb/tryhackme/blob/master/01.easy/Registry%20Persistence%20Detection.md)
 - [Brute Force Heroes](https://github.com/BEPb/tryhackme/blob/master/01.easy/Brute%20Force%20Heroes.md)
 - [Flip](https://github.com/BEPb/tryhackme/blob/master/01.easy/Flip.md)
-- [IR Philosophy and Ethics]()
-- []()
+- [IR Philosophy and Ethics](https://github.com/BEPb/tryhackme/blob/master/01.easy/IR%20Philosophy%20and%20Ethics.md)
+
+## Комнаты средней сложности:
+- [Profiles]()
 - []()
 - []()
 - []()
