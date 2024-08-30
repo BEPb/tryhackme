@@ -272,7 +272,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [IR Philosophy and Ethics](https://github.com/BEPb/tryhackme/blob/master/01.easy/IR%20Philosophy%20and%20Ethics.md)
 
 ## Комнаты средней сложности:
-- [Profiles]()
+- [Profiles](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Profiles.md)
 - []()
 - []()
 - []()
