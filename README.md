@@ -262,7 +262,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Confluence CVE-2023-22515](https://github.com/BEPb/tryhackme/blob/master/01.easy/Confluence%20CVE-2023-22515.md)
 - [Compiled](https://github.com/BEPb/tryhackme/blob/master/01.easy/Compiled.md)
 - [W1seGuy](https://github.com/BEPb/tryhackme/blob/master/01.easy/W1seGuy.md)
-- [Insekube]()
+- [Insekube](https://github.com/BEPb/tryhackme/blob/master/01.easy/Insekube.md)
 - []()
 - []()
 - []()

