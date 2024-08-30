@@ -273,7 +273,7 @@ TryHackMe — это исключительная онлайн-платформ�
 
 ## Комнаты средней сложности:
 - [Mr Robot CTF](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Mr%20Robot%20CTF.md)
-- []()
+- [Linux PrivEsc]()
 - []()
 - []()
 - []()
