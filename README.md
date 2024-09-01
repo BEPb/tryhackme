@@ -270,6 +270,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Brute Force Heroes](https://github.com/BEPb/tryhackme/blob/master/01.easy/Brute%20Force%20Heroes.md)
 - [Flip](https://github.com/BEPb/tryhackme/blob/master/01.easy/Flip.md)
 - [IR Philosophy and Ethics](https://github.com/BEPb/tryhackme/blob/master/01.easy/IR%20Philosophy%20and%20Ethics.md)
+- [25 Days of Cyber Security]()
 
 ## Комнаты средней сложности:
 - [Mr Robot CTF](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Mr%20Robot%20CTF.md)
