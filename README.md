@@ -276,8 +276,8 @@ TryHackMe — это исключительная онлайн-платформ�
 ## Комнаты средней сложности:
 - [Mr Robot CTF](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Mr%20Robot%20CTF.md)
 - [Linux PrivEsc](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Linux%20PrivEsc.md)
-- [SQL Injection]()
-- []()
+- [SQL Injection](https://github.com/BEPb/tryhackme/blob/master/02.Medium/SQL%20Injection.md)
+- [Linux Privilege Escalation]()
 - []()
 - []()
 - []()
