@@ -288,7 +288,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Regular expressions](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Regular%20expressions.md)
 - [Introduction to Cryptography](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Introduction%20to%20Cryptography.md)
 - [Anonymous](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Anonymous.md)
-- []()
+- [dogcat]()
 - []()
 - []()
 - []()
