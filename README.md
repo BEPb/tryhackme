@@ -279,7 +279,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [SQL Injection](https://github.com/BEPb/tryhackme/blob/master/02.Medium/SQL%20Injection.md)
 - [Linux Privilege Escalation](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Linux%20Privilege%20Escalation.md)
 - [Nmap Live Host Discovery](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Nmap%20Live%20Host%20Discovery.md)
-- []()
+- [Attacktive Directory]()
 - []()
 - []()
 - []()
