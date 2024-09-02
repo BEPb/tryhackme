@@ -284,7 +284,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Solar, exploiting log4j](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Solar%2C%20exploiting%20log4j.md)
 - [Wonderland](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Wonderland.md)
 - [Relevant](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Relevant.md)
-- []()
+- [Windows Forensics 1]()
 - []()
 - []()
 - []()
