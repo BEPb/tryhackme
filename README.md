@@ -282,7 +282,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Attacktive Directory](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Attacktive%20Directory.md)
 - [Encryption - Crypto 101](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Encryption%20-%20Crypto%20101.md)
 - [Solar, exploiting log4j](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Solar%2C%20exploiting%20log4j.md)
-- []()
+- [Wonderland]()
 - []()
 - []()
 - []()
