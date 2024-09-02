@@ -277,7 +277,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Mr Robot CTF](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Mr%20Robot%20CTF.md)
 - [Linux PrivEsc](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Linux%20PrivEsc.md)
 - [SQL Injection](https://github.com/BEPb/tryhackme/blob/master/02.Medium/SQL%20Injection.md)
-- [Linux Privilege Escalation]()
+- [Linux Privilege Escalation](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Linux%20Privilege%20Escalation.md)
 - []()
 - []()
 - []()
