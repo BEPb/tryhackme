@@ -283,7 +283,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Encryption - Crypto 101](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Encryption%20-%20Crypto%20101.md)
 - [Solar, exploiting log4j](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Solar%2C%20exploiting%20log4j.md)
 - [Wonderland](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Wonderland.md)
-- [Relevant]()
+- [Relevant](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Relevant.md)
 - []()
 - []()
 - []()
