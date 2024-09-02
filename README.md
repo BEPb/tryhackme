@@ -280,7 +280,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Linux Privilege Escalation](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Linux%20Privilege%20Escalation.md)
 - [Nmap Live Host Discovery](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Nmap%20Live%20Host%20Discovery.md)
 - [Attacktive Directory](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Attacktive%20Directory.md)
-- []()
+- [Encryption - Crypto 101]()
 - []()
 - []()
 - []()
