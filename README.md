@@ -285,7 +285,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Wonderland](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Wonderland.md)
 - [Relevant](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Relevant.md)
 - [Windows Forensics 1](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Windows%20Forensics%201.md)
-- []()
+- [Regular expressions]()
 - []()
 - []()
 - []()
