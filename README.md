@@ -294,7 +294,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Linux PrivEsc Arena](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Linux%20PrivEsc%20Arena.md)
 - [Boiler CTF](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Boiler%20CTF.md)
 - [UltraTech](https://github.com/BEPb/tryhackme/blob/master/02.Medium/UltraTech.md)
-- []()
+- [Blog]()
 - []()
 - []()
 - []()
