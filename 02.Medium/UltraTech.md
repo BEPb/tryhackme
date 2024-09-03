@@ -2,7 +2,7 @@
 
 # Комната [UltraTech](https://tryhackme.com/r/room/ultratech1) 
 
-Всего 5 заданий:
+Всего 4 задания:
 ## Задание 1
 
 ```commandline
