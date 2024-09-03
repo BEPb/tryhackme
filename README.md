@@ -289,7 +289,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Introduction to Cryptography](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Introduction%20to%20Cryptography.md)
 - [Anonymous](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Anonymous.md)
 - [dogcat](https://github.com/BEPb/tryhackme/blob/master/02.Medium/dogcat.md)
-- [Snort]()
+- [Snort](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Snort.md)
 - []()
 - []()
 - []()
