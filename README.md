@@ -291,7 +291,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [dogcat](https://github.com/BEPb/tryhackme/blob/master/02.Medium/dogcat.md)
 - [Snort](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Snort.md)
 - [Windows PrivEsc](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Windows%20PrivEsc.md)
-- []()
+- [Linux PrivEsc Arena]()
 - []()
 - []()
 - []()
