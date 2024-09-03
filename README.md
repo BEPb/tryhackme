@@ -293,7 +293,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Windows PrivEsc](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Windows%20PrivEsc.md)
 - [Linux PrivEsc Arena](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Linux%20PrivEsc%20Arena.md)
 - [Boiler CTF](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Boiler%20CTF.md)
-- []()
+- [UltraTech]()
 - []()
 - []()
 - []()
