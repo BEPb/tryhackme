@@ -296,7 +296,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [UltraTech](https://github.com/BEPb/tryhackme/blob/master/02.Medium/UltraTech.md)
 - [Blog](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Blog.md)
 - [Introduction to DevSecOps](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Introduction%20to%20DevSecOps.md)
-- []()
+- [Biohazard]()
 - []()
 - []()
 - []()
