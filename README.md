@@ -299,7 +299,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Biohazard](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Biohazard.md)
 - [Red Team Threat Intel](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Red%20Team%20Threat%20Intel.md)
 - [Wazuh](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Wazuh.md)
-- [0day]()
+- [0day](https://github.com/BEPb/tryhackme/blob/master/02.Medium/0day.md)
 - []()
 - []()
 - []()
