@@ -302,7 +302,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Wazuh](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Wazuh.md)
 - [0day](https://github.com/BEPb/tryhackme/blob/master/02.Medium/0day.md)
 - [Kubernetes for Everyone](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Kubernetes%20for%20Everyone.md)
-- [K8s Best Security Practices]()
+- [K8s Best Security Practices](https://github.com/BEPb/tryhackme/blob/master/02.Medium/K8s%20Best%20Security%20Practices.md)
 - []()
 - []()
 - []()
