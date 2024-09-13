@@ -305,7 +305,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [K8s Best Security Practices](https://github.com/BEPb/tryhackme/blob/master/02.Medium/K8s%20Best%20Security%20Practices.md)
 - [Cluster Hardening](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Cluster%20Hardening.md)
 - [Frank & Herby make an app](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Frank%20%26%20Herby%20make%20an%20app.md)
-- [Linux Agency]()
+- [Linux Agency](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Linux%20Agency.md)
 - []()
 - []()
 - []()
