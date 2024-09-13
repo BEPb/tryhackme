@@ -46,13 +46,27 @@ SSH в коробке как агент47
 ### Ответьте на вопросы ниже
 Что такое флаг mission1?
 ```commandline
+find / -type d -name "mission1" 2>/dev/null
+find / -type f -name "mission1" 2>/dev/null
+grep -r "mission1" / 2>/dev/null
+grep -r mission1 * .[^.]* 2>/dev/null
+```
+```commandline
 mission1{174dc8f191bcbb161fe25f8a5b58d1f0}
 ```
 Что такое флаг mission2?
 ```commandline
+su mission1
+find / -type f -name "mission2" 2>/dev/null
+```
+```commandline
 mission2{8a1b68bb11e4a35245061656b5b9fa0d}
 ```
 Что такое флаг mission3?
+```commandline
+su mission2
+grep -r mission3 * .[^.]* 2>/dev/null
+```
 ```commandline
 mission3{ab1e1ae5cba688340825103f70b0f976}
 ```
