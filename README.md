@@ -309,7 +309,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Basic Malware RE](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Basic%20Malware%20RE.md)
 - [Windows PrivEsc Arena](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Windows%20PrivEsc%20Arena.md)
 - [Disk Analysis & Autopsy]()
-- []()
+- [Red Team OPSEC]()
 - []()
 - []()
 - []()
