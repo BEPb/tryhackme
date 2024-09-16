@@ -315,7 +315,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [The Marketplace](https://github.com/BEPb/tryhackme/blob/master/02.Medium/The%20Marketplace.md)
 - [Watcher](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Watcher.md)
 - [Gatekeeper](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Gatekeeper.md)
-- []()
+- [Windows x64 Assembly]()
 - []()
 - []()
 - []()
