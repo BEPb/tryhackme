@@ -314,7 +314,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [GoldenEye](https://github.com/BEPb/tryhackme/blob/master/02.Medium/GoldenEye.md)
 - [The Marketplace](https://github.com/BEPb/tryhackme/blob/master/02.Medium/The%20Marketplace.md)
 - [Watcher]()
-- []()
+- [Gatekeeper]()
 - []()
 - []()
 - []()
