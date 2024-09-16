@@ -307,7 +307,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Frank & Herby make an app](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Frank%20%26%20Herby%20make%20an%20app.md)
 - [Linux Agency](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Linux%20Agency.md)
 - [Basic Malware RE](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Basic%20Malware%20RE.md)
-- []()
+- [Windows PrivEsc Arena]()
 - []()
 - []()
 - []()
