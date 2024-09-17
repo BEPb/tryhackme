@@ -316,7 +316,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Watcher](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Watcher.md)
 - [Gatekeeper](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Gatekeeper.md)
 - [Windows x64 Assembly](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Windows%20x64%20Assembly.md)
-- [Bypassing UAC]()
+- [Bypassing UAC](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Bypassing%20UAC.md)
 - []()
 - []()
 - []()
