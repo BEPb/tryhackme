@@ -318,7 +318,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Windows x64 Assembly](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Windows%20x64%20Assembly.md)
 - [Bypassing UAC](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Bypassing%20UAC.md)
 - [SSDLC](https://github.com/BEPb/tryhackme/blob/master/02.Medium/SSDLC.md)
-- [hackerNote]()
+- [hackerNote](https://github.com/BEPb/tryhackme/blob/master/02.Medium/hackerNote.md)
 - []()
 - []()
 - []()
