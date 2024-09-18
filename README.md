@@ -330,7 +330,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Looking Glass](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Looking%20Glass.md)
 - [Active Directory Hardening](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Active%20Directory%20Hardening.md)
 - [Linux Server Forensics](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Linux%20Server%20Forensics.md)
-- [Splunk: Exploring SPL]()
+- [Splunk: Exploring SPL](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Splunk%20Exploring%20SPL.md)
 - []()
 - []()
 - []()
