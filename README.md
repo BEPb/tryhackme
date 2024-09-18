@@ -324,7 +324,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Carnage](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Carnage.md)
 - [Tokyo Ghoul](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Tokyo%20Ghoul.md)
 - [NahamStore](https://github.com/BEPb/tryhackme/blob/master/02.Medium/NahamStore.md)
-- [Crack The Hash Level 2]()
+- [Crack The Hash Level 2](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Crack%20The%20Hash%20Level%202.md)
 - []()
 - []()
 - []()
