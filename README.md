@@ -327,7 +327,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Crack The Hash Level 2](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Crack%20The%20Hash%20Level%202.md)
 - [Redline](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Redline.md)
 - [Android Hacking 101](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Android%20Hacking%20101.md)
-- [Looking Glass]()
+- [Looking Glass](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Looking%20Glass.md)
 - []()
 - []()
 - []()
