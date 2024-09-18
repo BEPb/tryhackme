@@ -329,7 +329,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Android Hacking 101](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Android%20Hacking%20101.md)
 - [Looking Glass](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Looking%20Glass.md)
 - [Active Directory Hardening](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Active%20Directory%20Hardening.md)
-- []()
+- [Linux Server Forensics]()
 - []()
 - []()
 - []()
