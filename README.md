@@ -50,7 +50,8 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Windows Fundamentals 2](https://github.com/BEPb/tryhackme/blob/master/00.info/Windows%20Fundamentals%202.md)
 - [Windows Fundamentals 3](https://github.com/BEPb/tryhackme/blob/master/00.info/Windows%20Fundamentals%203.md)
 
-## Простые комнаты:
+## Easy rooms:
+#### Простые комнаты:
 - [Publisher](https://github.com/BEPb/tryhackme/blob/master/01.easy/Publisher/Publisher.md)
 - [Linux File System Analysis](https://github.com/BEPb/tryhackme/blob/master/01.easy/Linux%20File%20System%20Analysis.md)
 - [Moniker Link (CVE-2024-21413)](https://github.com/BEPb/tryhackme/blob/master/01.easy/Moniker%20Link%20(CVE-2024-21413).md)
@@ -276,7 +277,8 @@ TryHackMe — это исключительная онлайн-платформ�
 - [SQLMAP](https://github.com/BEPb/tryhackme/blob/master/01.easy/SQLMAP.md)
 - [Microservices Architectures](https://github.com/BEPb/tryhackme/blob/master/01.easy/Microservices%20Architectures.md)
 
-## Комнаты средней сложности:
+## Medium rooms:
+#### Комнаты средней сложности:
 - [Mr Robot CTF](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Mr%20Robot%20CTF.md)
 - [Linux PrivEsc](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Linux%20PrivEsc.md)
 - [SQL Injection](https://github.com/BEPb/tryhackme/blob/master/02.Medium/SQL%20Injection.md)
