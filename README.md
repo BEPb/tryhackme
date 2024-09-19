@@ -337,7 +337,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Splunk: Exploring SPL](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Splunk%20Exploring%20SPL.md)
 - [HA Joker CTF](https://github.com/BEPb/tryhackme/blob/master/02.Medium/HA%20Joker%20CTF.md)
 - [SSTI](https://github.com/BEPb/tryhackme/blob/master/02.Medium/SSTI.md)
-- []()
+- [Bookstore]()
 - []()
 - []()
 - []()
