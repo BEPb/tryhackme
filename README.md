@@ -335,7 +335,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Active Directory Hardening](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Active%20Directory%20Hardening.md)
 - [Linux Server Forensics](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Linux%20Server%20Forensics.md)
 - [Splunk: Exploring SPL](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Splunk%20Exploring%20SPL.md)
-- [HA Joker CTF]()
+- [HA Joker CTF](https://github.com/BEPb/tryhackme/blob/master/02.Medium/HA%20Joker%20CTF.md)
 - []()
 - []()
 - []()
