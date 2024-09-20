@@ -346,7 +346,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [AD Certificate Templates](https://github.com/BEPb/tryhackme/blob/master/02.Medium/AD%20Certificate%20Templates.md)
 - [KAPE](https://github.com/BEPb/tryhackme/blob/master/02.Medium/KAPE.md)
 - [Dumping Router Firmware](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Dumping%20Router%20Firmware.md)
-- []()
+- [VulnNet]()
 - []()
 - []()
 - []()
