@@ -345,7 +345,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [ConvertMyVideo](https://github.com/BEPb/tryhackme/blob/master/02.Medium/ConvertMyVideo.md)
 - [AD Certificate Templates](https://github.com/BEPb/tryhackme/blob/master/02.Medium/AD%20Certificate%20Templates.md)
 - [KAPE](https://github.com/BEPb/tryhackme/blob/master/02.Medium/KAPE.md)
-- [Dumping Router Firmware]()
+- [Dumping Router Firmware](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Dumping%20Router%20Firmware.md)
 - []()
 - []()
 - []()
