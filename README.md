@@ -349,7 +349,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [VulnNet](https://github.com/BEPb/tryhackme/blob/master/02.Medium/VulnNet.md)
 - [Wekor](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Wekor.md)
 - [Dissecting PE Headers](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Dissecting%20PE%20Headers.md)
-- []()
+- [Mindgames]()
 - []()
 - []()
 - []()
