@@ -338,7 +338,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [HA Joker CTF](https://github.com/BEPb/tryhackme/blob/master/02.Medium/HA%20Joker%20CTF.md)
 - [SSTI](https://github.com/BEPb/tryhackme/blob/master/02.Medium/SSTI.md)
 - [Bookstore](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Bookstore.md)
-- []()
+- [Secure Network Architecture]()
 - []()
 - []()
 - []()
