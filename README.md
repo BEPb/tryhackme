@@ -348,7 +348,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Dumping Router Firmware](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Dumping%20Router%20Firmware.md)
 - [VulnNet](https://github.com/BEPb/tryhackme/blob/master/02.Medium/VulnNet.md)
 - [Wekor](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Wekor.md)
-- []()
+- [Dissecting PE Headers]()
 - []()
 - []()
 - []()
