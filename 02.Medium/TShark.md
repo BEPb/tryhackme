@@ -61,13 +61,22 @@ tshark -r dns.cap -Y "dns.qry.type == 1"
 ### Ответьте на вопросы ниже
 Сколько пакетов в файле dns.cap?
 ```commandline
+tshark -r filename.cap | wc -l
+```
+```commandline
 38
 ```
 Сколько записей A содержится в захвате? (Включая ответы)
 ```commandline
+tshark -r filename.cap -Y “dns.qry.type ==1”
+```
+```commandline
 6
 ```
 Какая запись А была представлена чаще всего?
+```commandline
+tshark -r filename.cap -Y “dns.qry.type == 1” -T fields -e dns.qry.name
+```
 ```commandline
 GRIMM.utelsystems.local
 ```
@@ -83,9 +92,15 @@ GRIMM.utelsystems.local
 ### Ответьте на вопросы ниже
 Сколько пакетов содержится в этом захвате?
 ```commandline
+tshark -r filename.cap | wc -l
+```
+```commandline
 125
 ```
 Сколько DNS-запросов в этом pcap? (Не ответов!)
+```commandline
+tshark -r filename.pcap “dns.flags.response == 0” | wc -l
+```
 ```commandline
 56
 ```
@@ -95,9 +110,15 @@ GRIMM.utelsystems.local
 ```
 Какая строка извлекается из DNS-запросов?
 ```commandline
+tshark -r pcap -Y “dns.flags.response ==0” -T fields -e dns.qry.name | cut -d “.” -f1 | tr -d “\n”
+```
+```commandline
 MZWGCZ33ORUDC427NFZV65BQOVTWQX3XNF2GQMDVG5PXI43IGRZGWIL5
 ```
 Что такое флаг?
+```commandline
+# base32
+```
 ```commandline
 flag{th1s_is_t0ugh_with0u7_tsh4rk!}
 ```

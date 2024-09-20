@@ -339,7 +339,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [SSTI](https://github.com/BEPb/tryhackme/blob/master/02.Medium/SSTI.md)
 - [Bookstore](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Bookstore.md)
 - [Secure Network Architecture](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Secure%20Network%20Architecture.md)
-- [TShark]()
+- [TShark](https://github.com/BEPb/tryhackme/blob/master/02.Medium/TShark.md)
 - []()
 - []()
 - []()
