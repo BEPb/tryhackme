@@ -1,5 +1,3 @@
-
-
 [>> вернуться на главную страницу](https://github.com/BEPb/tryhackme/blob/master/README.md)
 
 # Комната [Dumping Router Firmware](https://tryhackme.com/r/room/rfirmware) 
