@@ -347,7 +347,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [KAPE](https://github.com/BEPb/tryhackme/blob/master/02.Medium/KAPE.md)
 - [Dumping Router Firmware](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Dumping%20Router%20Firmware.md)
 - [VulnNet]()
-- []()
+- [Wekor]()
 - []()
 - []()
 - []()
