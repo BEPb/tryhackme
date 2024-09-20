@@ -344,7 +344,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [CTF collection Vol.2](https://github.com/BEPb/tryhackme/blob/master/02.Medium/CTF%20collection%20Vol.2.md)
 - [ConvertMyVideo](https://github.com/BEPb/tryhackme/blob/master/02.Medium/ConvertMyVideo.md)
 - [AD Certificate Templates](https://github.com/BEPb/tryhackme/blob/master/02.Medium/AD%20Certificate%20Templates.md)
-- []()
+- [KAPE]()
 - []()
 - []()
 - []()
