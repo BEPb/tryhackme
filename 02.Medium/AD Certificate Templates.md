@@ -33,4 +33,15 @@
 Ответ не нужен
 ```
 
+## Задание 6
+
+```commandline
+Ответ не нужен
+```
+
+## Задание 7
+
+```commandline
+Ответ не нужен
+```
 [>> вернуться на главную страницу](https://github.com/BEPb/tryhackme/blob/master/README.md)
