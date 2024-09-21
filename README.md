@@ -351,7 +351,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Dissecting PE Headers](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Dissecting%20PE%20Headers.md)
 - [Mindgames](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Mindgames.md)
 - [Empline](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Empline/Empline.md)
-- []()
+- [Nax]()
 - []()
 - [Profiles](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Profiles.md)
 - []()
