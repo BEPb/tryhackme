@@ -16,6 +16,14 @@
 ### Ответьте на вопросы ниже
 Пользователь.txt
 ```commandline
+nmap -sSCV -T4 <IP>
+echo "<IP> empline.thm job.empline.thm" >> /etc/hosts
+gobuster dir -w /usr/share/wordlists/dirb/common.txt -v -k -u http://job.empline.thm -x php,js,conf,bak,txt,old | grep “Found”
+# http://job.empline.thm/careers
+# OpenCATS <= 0.9.4 RCE (CVE-2021-41560)
+
+```
+```commandline
 91cb89c70aa2e5ce0e0116dab099078e
 ```
 Корень.txt
