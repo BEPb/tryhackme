@@ -2,7 +2,7 @@
 
 # Комната [Investigating Windows 2.0](https://tryhackme.com/r/room/investigatingwindows2) 
 
-Всего 5 заданий:
+Всего 1 заданиe:
 ## Задание 1
 
 ```commandline
