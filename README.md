@@ -354,7 +354,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Nax](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Nax.md)
 - [Investigating Windows 2.0](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Investigating%20Windows%202.0.md)
 - [Masterminds](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Masterminds.md)
-- [Introduction To Honeypots]()
+- [Introduction To Honeypots](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Introduction%20To%20Honeypots.md)
 - []()
 - []()
 - []()
