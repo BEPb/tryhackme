@@ -352,7 +352,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Mindgames](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Mindgames.md)
 - [Empline](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Empline/Empline.md)
 - [Nax](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Nax.md)
-- [Investigating Windows 2.0]()
+- [Investigating Windows 2.0](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Investigating%20Windows%202.0.md)
 - [Profiles](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Profiles.md)
 - []()
 - []()
