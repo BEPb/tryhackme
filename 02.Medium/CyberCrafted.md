@@ -35,7 +35,6 @@ john id_rsa.hash -wordlist=/usr/share/wordlists/rockyou.txt
 su cybercrafted
 sudo -l
 sudo /usr/bin/screen -r cybercrafted
-
 ```
 ```commandline
 3
