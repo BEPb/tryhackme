@@ -363,7 +363,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Hip Flask](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Hip%20Flask.md)
 - [CMSpit](https://github.com/BEPb/tryhackme/blob/master/02.Medium/CMSpit.md)
 - [Zeno](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Zeno.md)
-- []()
+- [Olympus]()
 - []()
 - []()
 - []()
