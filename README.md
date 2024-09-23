@@ -362,7 +362,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [The Great Escape](https://github.com/BEPb/tryhackme/blob/master/02.Medium/The%20Great%20Escape.md)
 - [Hip Flask](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Hip%20Flask.md)
 - [CMSpit](https://github.com/BEPb/tryhackme/blob/master/02.Medium/CMSpit.md)
-- [Zeno]()
+- [Zeno](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Zeno.md)
 - []()
 - []()
 - []()
