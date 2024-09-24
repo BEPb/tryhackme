@@ -369,7 +369,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Peak Hill](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Peak%20Hill.md)
 - [SSRF](https://github.com/BEPb/tryhackme/blob/master/02.Medium/SSRF.md)
 - [Linux Function Hooking]()
-- []()
+- [Threat Intelligence for SOC]()
 - []()
 - []()
 - []()
