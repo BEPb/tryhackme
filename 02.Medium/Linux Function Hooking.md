@@ -1,8 +1,6 @@
-
-
 [>> вернуться на главную страницу](https://github.com/BEPb/tryhackme/blob/master/README.md)
 
-# Комната [Linux Function Hooking]() 
+# Комната [Linux Function Hooking](https://tryhackme.com/r/room/linuxfunctionhooking) 
 
 Всего 7 заданий:
 ## Задание 1
