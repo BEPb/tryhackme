@@ -370,7 +370,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [SSRF](https://github.com/BEPb/tryhackme/blob/master/02.Medium/SSRF.md)
 - [Linux Function Hooking](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Linux%20Function%20Hooking.md)
 - [Threat Intelligence for SOC](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Threat%20Intelligence%20for%20SOC.md)
-- [Cicada-3301 Vol:1]()
+- [Cicada-3301 Vol:1](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Cicada-3301%20Vol1.md)
 - []()
 - []()
 - []()
