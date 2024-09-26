@@ -8,6 +8,15 @@
 ### Ответьте на вопросы ниже
 Что такое флаг?
 ```commandline
+file Challenge.Challenge
+strings Challenge.Challenge
+./Challenge.Challenge
+ltrace ./Challenge.Challenge
+
+./Challenge.Challenge
+Username: AGB6js5d9dkG7
+```
+```commandline
 THM{65235128496}
 ```
 
