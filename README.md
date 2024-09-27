@@ -374,7 +374,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Classic Passwd](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Classic%20Passwd.md)
 - [Preparation](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Preparation.md)
 - [PrintNightmare](https://github.com/BEPb/tryhackme/blob/master/02.Medium/PrintNightmare.md)
-- []()
+- [battery]()
 - []()
 - []()
 - []()
