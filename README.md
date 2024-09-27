@@ -373,7 +373,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Cicada-3301 Vol:1](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Cicada-3301%20Vol1.md)
 - [Classic Passwd](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Classic%20Passwd.md)
 - [Preparation](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Preparation.md)
-- [PrintNightmare]()
+- [PrintNightmare](https://github.com/BEPb/tryhackme/blob/master/02.Medium/PrintNightmare.md)
 - []()
 - []()
 - []()
