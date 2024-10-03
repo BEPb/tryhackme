@@ -376,7 +376,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [PrintNightmare](https://github.com/BEPb/tryhackme/blob/master/02.Medium/PrintNightmare.md)
 - [battery](https://github.com/BEPb/tryhackme/blob/master/02.Medium/battery.md)
 - [PaperCut: CVE-2023-27350](https://github.com/BEPb/tryhackme/blob/master/02.Medium/PaperCut%20CVE-2023-27350.md)
-- [Advanced SQL Injection]()
+- [Advanced SQL Injection](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Advanced%20SQL%20Injection.md)
 - []()
 - []()
 - []()
