@@ -276,6 +276,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [25 Days of Cyber Security](https://github.com/BEPb/tryhackme/blob/master/01.easy/25%20Days%20of%20Cyber%20Security.md)
 - [SQLMAP](https://github.com/BEPb/tryhackme/blob/master/01.easy/SQLMAP.md)
 - [Microservices Architectures](https://github.com/BEPb/tryhackme/blob/master/01.easy/Microservices%20Architectures.md)
+- [Offensive Security Intro]()
 
 ## Medium rooms:
 #### Комнаты средней сложности:
