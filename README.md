@@ -286,7 +286,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Cryptography Basics](https://github.com/BEPb/tryhackme/blob/master/01.easy/Cryptography%20Basics.md)
 - [Web Application Basics](https://github.com/BEPb/tryhackme/blob/master/01.easy/Web%20Application%20Basics.md)
 - [SOC Fundamentals](https://github.com/BEPb/tryhackme/blob/master/01.easy/SOC%20Fundamentals.md)
-- [CyberChef: The Basics]()
+- [CyberChef: The Basics](https://github.com/BEPb/tryhackme/blob/master/01.easy/CyberChef%20The%20Basics.md)
 
 ## Medium rooms:
 #### Комнаты средней сложности:
