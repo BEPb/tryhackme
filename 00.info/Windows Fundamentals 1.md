@@ -1,10 +1,8 @@
-
-
 [>> вернуться на главную страницу](https://github.com/BEPb/tryhackme/blob/master/README.md)
 
 # Комната [Windows Fundamentals 1](https://tryhackme.com/r/room/windowsfundamentals1xbx) 
 
-Всего 5 заданий:
+Всего 10 заданий:
 ## Задание 1
 
 ```commandline
@@ -30,6 +28,36 @@
 ```
 
 ## Задание 5
+
+```commandline
+Ответ не нужен
+```
+
+## Задание 6
+
+```commandline
+Ответ не нужен
+```
+
+## Задание 7
+
+```commandline
+Ответ не нужен
+```
+
+## Задание 8
+
+```commandline
+Ответ не нужен
+```
+
+## Задание 9
+
+```commandline
+Ответ не нужен
+```
+
+## Задание 10
 
 ```commandline
 Ответ не нужен
