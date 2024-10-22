@@ -281,6 +281,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Offensive Security Intro](https://github.com/BEPb/tryhackme/blob/master/01.easy/Offensive%20Security%20Intro.md)
 - [Defensive Security Intro](https://github.com/BEPb/tryhackme/blob/master/01.easy/Defensive%20Security%20Intro.md)
 - [Search Skills](https://github.com/BEPb/tryhackme/blob/master/01.easy/Search%20Skills.md)
+- [Windows Command Line]()
 
 ## Medium rooms:
 #### Комнаты средней сложности:
