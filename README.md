@@ -49,6 +49,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Win Prizes and Learn - 2023!](https://github.com/BEPb/tryhackme/blob/master/00.info/Win%20Prizes%20and%20Learn%20-%202023!.md)
 - [Windows Fundamentals 2](https://github.com/BEPb/tryhackme/blob/master/00.info/Windows%20Fundamentals%202.md)
 - [Windows Fundamentals 3](https://github.com/BEPb/tryhackme/blob/master/00.info/Windows%20Fundamentals%203.md)
+- [TryWinMe: Think Cyber Monopoly]()
 
 ## Easy rooms:
 #### Простые комнаты:
@@ -276,7 +277,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [25 Days of Cyber Security](https://github.com/BEPb/tryhackme/blob/master/01.easy/25%20Days%20of%20Cyber%20Security.md)
 - [SQLMAP](https://github.com/BEPb/tryhackme/blob/master/01.easy/SQLMAP.md)
 - [Microservices Architectures](https://github.com/BEPb/tryhackme/blob/master/01.easy/Microservices%20Architectures.md)
-- [Offensive Security Intro]()
+- [Offensive Security Intro](https://github.com/BEPb/tryhackme/blob/master/01.easy/Offensive%20Security%20Intro.md)
 
 ## Medium rooms:
 #### Комнаты средней сложности:
