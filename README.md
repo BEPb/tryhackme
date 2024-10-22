@@ -278,7 +278,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [SQLMAP](https://github.com/BEPb/tryhackme/blob/master/01.easy/SQLMAP.md)
 - [Microservices Architectures](https://github.com/BEPb/tryhackme/blob/master/01.easy/Microservices%20Architectures.md)
 - [Offensive Security Intro](https://github.com/BEPb/tryhackme/blob/master/01.easy/Offensive%20Security%20Intro.md)
-- [Defensive Security Intro]()
+- [Defensive Security Intro](https://github.com/BEPb/tryhackme/blob/master/01.easy/Defensive%20Security%20Intro.md)
 
 ## Medium rooms:
 #### Комнаты средней сложности:
