@@ -47,6 +47,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Sudo Security Bypass](https://github.com/BEPb/tryhackme/blob/master/00.info/Sudo%20Security%20Bypass.md)
 - [What is Networking?](https://github.com/BEPb/tryhackme/blob/master/00.info/What%20is%20Networking.md)
 - [Win Prizes and Learn - 2023!](https://github.com/BEPb/tryhackme/blob/master/00.info/Win%20Prizes%20and%20Learn%20-%202023!.md)
+- [Windows Fundamentals 1]()
 - [Windows Fundamentals 2](https://github.com/BEPb/tryhackme/blob/master/00.info/Windows%20Fundamentals%202.md)
 - [Windows Fundamentals 3](https://github.com/BEPb/tryhackme/blob/master/00.info/Windows%20Fundamentals%203.md)
 - [TryWinMe: Think Cyber Monopoly](https://github.com/BEPb/tryhackme/blob/master/00.info/TryWinMe%20Think%20Cyber%20Monopoly.md)
