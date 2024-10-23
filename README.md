@@ -287,7 +287,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Web Application Basics](https://github.com/BEPb/tryhackme/blob/master/01.easy/Web%20Application%20Basics.md)
 - [SOC Fundamentals](https://github.com/BEPb/tryhackme/blob/master/01.easy/SOC%20Fundamentals.md)
 - [CyberChef: The Basics](https://github.com/BEPb/tryhackme/blob/master/01.easy/CyberChef%20The%20Basics.md)
-- [OWASP Top 10 - 2021]()
+- [OWASP Top 10 - 2021](https://github.com/BEPb/tryhackme/blob/master/01.easy/OWASP%20Top%2010%20-%202021.md)
 
 ## Medium rooms:
 #### Комнаты средней сложности:
