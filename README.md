@@ -395,7 +395,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [K8s Runtime Security](https://github.com/BEPb/tryhackme/blob/master/02.Medium/K8s%20Runtime%20Security.md)
 - [biteme](https://github.com/BEPb/tryhackme/blob/master/02.Medium/biteme.md)
 - [The Server From Hell](https://github.com/BEPb/tryhackme/blob/master/02.Medium/The%20Server%20From%20Hell.md)
-- []()
+- [Recovery]()
 - []()
 - []()
 - []()
