@@ -394,7 +394,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Binary Heaven](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Binary%20Heaven.md)
 - [K8s Runtime Security](https://github.com/BEPb/tryhackme/blob/master/02.Medium/K8s%20Runtime%20Security.md)
 - [biteme](https://github.com/BEPb/tryhackme/blob/master/02.Medium/biteme.md)
-- []()
+- [The Server From Hell]()
 - []()
 - []()
 - []()
