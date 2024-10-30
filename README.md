@@ -396,7 +396,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [biteme](https://github.com/BEPb/tryhackme/blob/master/02.Medium/biteme.md)
 - [The Server From Hell](https://github.com/BEPb/tryhackme/blob/master/02.Medium/The%20Server%20From%20Hell.md)
 - [Recovery](https://github.com/BEPb/tryhackme/blob/master/02.Medium/Recovery.md)
-- []()
+- [HaskHell]()
 - []()
 - []()
 - []()
