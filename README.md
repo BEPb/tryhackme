@@ -291,6 +291,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Tutorial](https://github.com/BEPb/tryhackme/blob/master/01.easy/Tutorial.md)
 - [DVWA](https://github.com/BEPb/tryhackme/blob/master/01.easy/DVWA.md)
 - [RustScan](https://github.com/BEPb/tryhackme/blob/master/01.easy/RustScan.md)
+- [Advent of Cyber 2024]()
 
 ## Medium rooms:
 #### Комнаты средней сложности:
