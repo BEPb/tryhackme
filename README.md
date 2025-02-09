@@ -294,6 +294,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Advent of Cyber 2024](https://github.com/BEPb/tryhackme/blob/master/01.easy/Advent%20of%20Cyber%202024.md)
 - [MAL: Researching](https://github.com/BEPb/tryhackme/blob/master/01.easy/MAL_Researching.md)
 - [Snyk Open Source](https://github.com/BEPb/tryhackme/blob/master/01.easy/Snyk_Open_Source.md)
+- [Windows Incident Surface]()
 
 ## Medium rooms:
 #### Комнаты средней сложности:
