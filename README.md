@@ -295,6 +295,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [MAL: Researching](https://github.com/BEPb/tryhackme/blob/master/01.easy/MAL_Researching.md)
 - [Snyk Open Source](https://github.com/BEPb/tryhackme/blob/master/01.easy/Snyk_Open_Source.md)
 - [Windows Incident Surface](https://github.com/BEPb/tryhackme/blob/master/01.easy/Windows%20Incident%20Surface.md)
+- [Enumeration & Brute Force]()
 
 ## Medium rooms:
 #### Комнаты средней сложности:
