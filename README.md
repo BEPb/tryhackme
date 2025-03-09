@@ -296,7 +296,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Snyk Open Source](https://github.com/BEPb/tryhackme/blob/master/01.easy/Snyk_Open_Source.md)
 - [Windows Incident Surface](https://github.com/BEPb/tryhackme/blob/master/01.easy/Windows%20Incident%20Surface.md)
 - [Enumeration & Brute Force](https://github.com/BEPb/tryhackme/blob/master/01.easy/Enumeration%20%26%20Brute%20Force.md)
-- [DNS Manipulation]()
+- [DNS Manipulation](https://github.com/BEPb/tryhackme/blob/master/01.easy/DNS%20Manipulation.md)
 
 ## Medium rooms:
 #### Комнаты средней сложности:
