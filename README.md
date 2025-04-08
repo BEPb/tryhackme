@@ -297,7 +297,7 @@ TryHackMe — это исключительная онлайн-платформ�
 - [Windows Incident Surface](https://github.com/BEPb/tryhackme/blob/master/01.easy/Windows%20Incident%20Surface.md)
 - [Enumeration & Brute Force](https://github.com/BEPb/tryhackme/blob/master/01.easy/Enumeration%20%26%20Brute%20Force.md)
 - [DNS Manipulation](https://github.com/BEPb/tryhackme/blob/master/01.easy/DNS%20Manipulation.md)
-- [Intro To Pwntools]()
+- [Intro To Pwntools](https://github.com/BEPb/tryhackme/blob/master/01.easy/Intro%20To%20Pwntools.md)
 
 ## Medium rooms:
 #### Комнаты средней сложности:
